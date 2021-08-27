@@ -5,6 +5,8 @@ correspondiente.
 
 ## Cómo eliminar *commits* problemáticos
 
+La primera medida para que no aparezcan commits problemáticos es simplemente hacer cada *pull request* desde una rama diferente. Crea una rama del repositorio (en este estado) para la entrega del proyecto, y hazlo desde ahí. Envía siempre tus cambios *desde una rama específica*, no desde la rama principal de tu copia del repositorio.
+
 Puede ser que se haya mezclado una versión del repositorio obsoleta, o
 simplemente que se hayan hecho commits con una configuración
 incorrecta de git (generalmente, por no haber establecido el correo
@@ -15,7 +17,7 @@ volver a hacer los cambios, haz lo siguiente.
 1. Guarda los ficheros que hayas modificado aparte, en un directorio
    temporal o donde quieras. Generalmente, serán el `hito-?.md` y el
    fichero de objetivos.
-   
+
 2. Tienes que borrar los commits. Lo puedes hacer de varias formas.
 
     1. Si te manejas un poco con git, [sigue estos consejos de las
@@ -31,6 +33,6 @@ volver a hacer los cambios, haz lo siguiente.
     que hayas cambiado.
     4. `git push --force` pisará tu repositorio y pondrá el original +
        el cambio que quieras hacer.
-       
+
 Recuerda que si has modificado los dos ficheros, tienes que hacer PRs
 separados para objetivos y para el hito.
