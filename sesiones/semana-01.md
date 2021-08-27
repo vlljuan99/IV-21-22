@@ -64,6 +64,11 @@ enterarse de los contenidos impartidos en la misma a través de esta web, el gru
   hasta encontrar el error concreto en la página del sistema que lanza
   los tests.
 * Cómo se va a usar la evaluación formativa: los tests automáticos indicarán si se han alcanzado los objetivos mínimos, a través del pull request que se haga se indicará qué es necesario para cubrir el resto de los objetivos. Los objetivos alcanzados se calificarán según la dificultad de los mismos (generalmente relacionada con el tiempo de entreta sugerido); sólo se calificarán los últimos hitos del proyecto.
+* Para "entregar" cada objetivo:
+  * Se crea una rama específica para cada objetivo.
+  * Se hace un PR en el mismo repositorio indicando qué cambios se han hecho para alcanzar este objetivo.
+  * Se incluye en el fichero "proyecto-x.md" un enlace a la *rama* desde la que se esté haciendo el PR.
+  * Hay que esperar que el profesor apruebe el PR para fusionarlo. Cuando se apruebe el PR, se habrá alcanzado el objetivo.
 
 ## Material de la asignatura
 
