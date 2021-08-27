@@ -29,17 +29,12 @@ my $extensions = "(md|org)";
 my $repo = Git->repository ( Directory => '.' );
 my $mi_repo = $repo->command('remote', 'show', 'origin') =~ /JJ\/IV/;
 my $diff = $repo->command('diff','HEAD^1','HEAD');
-my $diff_regex = qr/a\/proyectos\/hito-(\d)\.md/;
+my $diff_regex = qr/a\/proyectos\/objetivo-(\d)\.md/;
 my $ua =  Mojo::UserAgent->new(connect_timeout => 10);
 my $github;
 
 SKIP: {
   my ($this_hito) = ($diff =~ $diff_regex);
-  unless ( defined $this_hito ) {
-    my ($fichero_objetivos) = ( $diff =~ /[ab]\/objetivos\/(\S+)\.$extensions/ );
-    ok( $fichero_objetivos, "El envío es del fichero de objetivos y tiene la extensión correcta" );
-    skip "No hay envío de proyecto";
-  }
   my @files = split(/diff --git/,$diff);
 
   my ($diff_hito) = grep( /$diff_regex/, @files);
@@ -52,28 +47,6 @@ SKIP: {
   isnt($url_repo,"","El envío incluye un URL"); # Test 2
   like($url_repo,qr/github.com/,"El URL es de GitHub"); # Test 3
   my ($user,$name) = ($url_repo=~ /github.com\/(\S+)\/([^\)\.]+)/);
-
-  # Comprobación de envío de objetivos cuando hay nombre de usuario
-  my $prefix = ($repo->{'opts'}->{'WorkingSubdir'} eq 't/')?"..":".";
-  my @ficheros_objetivos = glob "$prefix/objetivos/*.*";
-  my ($este_fichero) =  grep( /$user/i, @ficheros_objetivos);
-  skip "✗ Sin este fichero no se puede continuar"
-    unless ok( $este_fichero, "$user ha enviado fichero de objetivos con el nombre correcto. Buscaba $user.md" ); # Test 4
-
-  # Comprobación de lo diferentes que son los ficheros de objetivos (o no)
-  for my $f (@ficheros_objetivos) {
-    if ($f ne $este_fichero ) {
-      my $diff = `diff $f $este_fichero`;
-      diag "✗ Si tus objetivos cumplidos son diferentes, el fichero también debería serlo"
-        unless isnt $diff, "", "El fichero de objetivos enviado no es idéntico a $f";
-    }
-  }
-
-  # Comprobar que los ha actualizado
-  my $objetivos_actualizados = objetivos_actualizados( $repo, $este_fichero );
-  is( $objetivos_actualizados, "",
-       "Fichero de objetivos $este_fichero está actualizado")
-    or skip "Fichero de objetivos actualizados hace $objetivos_actualizados";
 
   my $repo_dir = create_student_repo_dir( $url_repo, $mi_repo, $user, $name );
   my $student_repo = Git->repository ( Directory => $repo_dir );
