@@ -1,0 +1,18 @@
+name: "Para hacer tests en el repo"
+on: pull_request
+
+jobs:
+  auto-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: 16
+      - name: Checkout repo
+        uses: actions/checkout@v2
+      - name: Comprueba y analiza
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          node dist/index.js
