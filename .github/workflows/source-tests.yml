@@ -6,6 +6,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Comprueba y analiza
-        uses: JJ/grading-pr-info-gh-action@master
+        uses: JJ/grading-pr-info-gh-action@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
