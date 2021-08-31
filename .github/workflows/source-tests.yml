@@ -1,8 +1,8 @@
-name: "Tests sobre fuentes del repo"
+name: "Tests sobre fuentes del repo del estudiante"
 on: pull_request
 
 jobs:
-  auto-test:
+  test-fuentes:
     runs-on: ubuntu-latest
     steps:
       - name: Comprueba y analiza
