@@ -1,11 +1,20 @@
-# Directorio de prácticas
+# Directorio para entrega de los proyectos
 
-Directorio para entrega de las prácticas modificando el fichero
-correspondiente.
+Directorio para entrega de los diferentes objetivos del proyecto modificando el
+fichero correspondiente.
+
+A continuación, algunos cnsejos por si surgen problemas en el PR, aunque este
+año no seberían surgir, ya que *hay que hacer siempre PR a este repositorio
+desde una rama, diferente para cada objetivo, que se puede borrar al ser
+fusionada*.
 
 ## Cómo eliminar *commits* problemáticos
 
-La primera medida para que no aparezcan commits problemáticos es simplemente hacer cada *pull request* desde una rama diferente. Crea una rama del repositorio (en este estado) para la entrega del proyecto, y hazlo desde ahí. Envía siempre tus cambios *desde una rama específica*, no desde la rama principal de tu copia del repositorio.
+La primera medida para que no aparezcan commits problemáticos es simplemente
+hacer cada *pull request* desde una rama diferente. Crea una rama del
+repositorio (en este estado) para la entrega del proyecto, y hazlo desde
+ahí. Envía siempre tus cambios *desde una rama específica*, no desde la rama
+principal de tu copia del repositorio.
 
 Puede ser que se haya mezclado una versión del repositorio obsoleta, o
 simplemente que se hayan hecho commits con una configuración
