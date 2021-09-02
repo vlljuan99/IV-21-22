@@ -1,5 +1,7 @@
 name: Obtiene los items marcados
-on: [pull_request]
+on:
+  pull_request:
+    types: [opened,edited]
 
 jobs:
   get-checks:
