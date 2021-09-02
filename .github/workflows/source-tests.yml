@@ -14,5 +14,5 @@ jobs:
         with:
           repository: ${{env.user}}/${{env.repo}}
           ref: ${{env.rama}}
-      - name: Post-check
-        run: ls
+      - name: Tests sobre fuentes
+        uses: JJ/grading-source-tests-gh-action@main
