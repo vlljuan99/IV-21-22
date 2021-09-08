@@ -8,7 +8,7 @@ recuerda al estudiante que es su responsabilidad asistir a clase o, si
 no es posible,
 enterarse de los contenidos impartidos en la misma a través de esta web, el grupo de Telegram o los compañeros. Se recomienda encarecidamente, en todo caso, asistir a las primeras clases, al menos hasta que se supere la fase de evaluación formativa.
 
-## Objetivos a cubrir en la sesión
+## Objetivos a cubrir en la semana
 
 1. Entender la metodología docente, de evaluación y de interacción de la asignatura.
 2. Darse de alta (si no se está) y comprender el funcionamiento básico de GitHub y el
@@ -74,6 +74,13 @@ enterarse de los contenidos impartidos en la misma a través de esta web, el gru
   * Se hace un PR en el mismo repositorio indicando qué cambios se han hecho para alcanzar este objetivo.
   * Se incluye en el fichero `objetivos-x.md` un *enlace al pull request* desde la que se esté haciendo el PR.
   * Hay que esperar que el profesor apruebe el PR para fusionarlo. Cuando se apruebe el PR, se habrá alcanzado el objetivo.
+
+## Sesión de prácticas (día 17 de septiembre)
+
+[Introducción a git](http://jj.github.io/IV/preso/git.html#/). Antes del final
+de la sesión, [entregar el objetivo
+0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio) que se revisará
+sobre la marcha.
 
 ## Material de la asignatura
 
