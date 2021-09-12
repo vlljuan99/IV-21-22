@@ -20,7 +20,7 @@ enterarse de los contenidos impartidos en la misma a través de esta web, el gru
 6. Empezar a usar git y GitHub (o usarlo más intensamente). Por
    ejemplo,
    [seguir este vídeo](https://www.youtube.com/watch?v=gmXyJI01qa8) o
-   cualquier otro tutorial online.
+   cualquier otro tutorial online (o el vídeo de la charla de ayer).
 
 ## Contenidos
 
