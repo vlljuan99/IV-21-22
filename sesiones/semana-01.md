@@ -12,12 +12,12 @@ enterarse de los contenidos impartidos en la misma a través de esta web, el gru
 
 1. Entender la metodología docente, de evaluación y de interacción de la asignatura.
 2. Darse de alta (si no se está) y comprender el funcionamiento básico de GitHub y el
-   grupo de Telegram de la asignatura y conocer el resto de los recursos de la misma.
+   grupo de Telegram de la asignatura (se debe haber recibido una invitación en el correo de la UGR) y conocer el resto de los recursos de la misma.
 2. Entender el concepto de software libre y su aplicación práctica en esta asignatura.
 3. Vernos las caras.
 4. Explicar el
    [objetivo 0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio). Sugerencia de entrega: mañana viernes 17 de septiembre, al final de la clase práctica.
-6. Empezar a usar git y GitHub. Por
+6. Empezar a usar git y GitHub (o usarlo más intensamente). Por
    ejemplo,
    [seguir este vídeo](https://www.youtube.com/watch?v=gmXyJI01qa8) o
    cualquier otro tutorial online.
@@ -26,8 +26,7 @@ enterarse de los contenidos impartidos en la misma a través de esta web, el gru
 
 * Presentación del profesor de la asignatura.
 * Con el número de estudiantes matriculados y aforo suficiente, no hace falta organizar grupos
-  de prácticas. Que cada uno venga el día que quiera, o ninguno (véase
-  la nota al principio de esta página).
+  de prácticas. Que cada uno venga el día que quiera, pero se aconseja vivamente no faltar a prácticas (es decir, a todas las clases, no hay distinción entre teoría y prácticas).
 * Presentación de los recursos de la
   asignatura: [web](http://jj.github.io/IV)
   y [Twitter `@iv_gii`](http://twitter.com/iv_gii), incluyendo el
@@ -40,8 +39,7 @@ enterarse de los contenidos impartidos en la misma a través de esta web, el gru
   consecuencias que trae.
 * [Metodología y criterios de evaluación](../Metodología_y_criterios_de_evaluación.md).
 * Tutorías y como hacerlas
-* Fechas para seminarios y recuperaciones de clase y forma de los mismos (streaming, por ejemplo).
-* Introducción al desarrollo ágil y el software libre.
+* Introducción al desarrollo ágil y el software libre. Los proyectos que se presenten *son software libre* y por tanto no pueden ser privados.
 * Sistema operativo de referencia en la asignatura: **Linux** (Ubuntu,
   Debian, ArchLinux, Fedora, OpenSUSE, Linux Mint, Antergos). Aunque la práctica
   y la mayoría de ejercicios se pueden hacer en otros sistemas
@@ -55,20 +53,22 @@ enterarse de los contenidos impartidos en la misma a través de esta web, el gru
 * Entender cómo se entregan los objetivos y los hitos posteriores: *fork* de este repositorio (que
   habrá que actualizar periódicamente), hacer una *rama* del mismo y *pull request* desde esa rama.
 * Debe queder muy claro que las tutorías no son para que el profesor
-  repita el material de clase ni para *poner al día al estudiante*, cuya obligación es precisamente mantenerse al día de los contenidos impartidos en clase, sobre todo porque el material de clase
+  repita el material de clase ni para *poner al día al estudiante*,
+  cuya obligación es precisamente mantenerse al día de los contenidos
+  impartidos en clase, sobre todo porque el material de clase
   está todo en la web y las explicaciones son sólo bajo demanda.
 * Los objetivos se pre-evalúan automáticamente usando
   sistemas integrados en GitHub. Cuando los indicadores están en rojo,
   es que ha habido algún error. Hay que pinchar en el mismo y navegar
   hasta encontrar el error concreto en la página del sistema que lanza
   los tests.
-* Cómo se va a usar la evaluación formativa: los tests automáticos
+* *Cómo se va a usar la evaluación formativa*: los tests automáticos
   indicarán si se han alcanzado los objetivos mínimos, a través del
   pull request que se haga se indicará qué es necesario para cubrir el
   resto de los objetivos. Los objetivos alcanzados se calificarán
-  según la dificultad de los mismos (generalmente relacionada con el
-  tiempo de entreta sugerido); sólo se calificarán los últimos hitos
-  del proyecto.
+  según la dificultad de los mismos (en general, menos la principio, más al final); sólo se calificarán los últimos hitos
+  del proyecto (y tampoco es seguro, dependerá de cómo se desarrolle la asignatura).
+  * En el momento que se alcancen objetivos suficientes, se puede solicitar al profesor calificación para abandonar, si se desea, la asignatura.
 * Para "entregar" cada objetivo:
   * Se crea una rama específica para cada uno en el repositorio del proyecto.
   * Se hace un PR en el mismo repositorio indicando qué cambios se han hecho para alcanzar este objetivo.
@@ -85,11 +85,11 @@ sobre la marcha.
 ## Material de la asignatura
 
 Todo [el material de la asignatura está en
-GitHub](http://jj.github.io/IV). Los ejercicios para cubrir los
-objetivos son los del [primer
-tema](http://jj.github.io/IV/documentos/temas/Intro_concepto_y_soporte_fisico). Se
-recomienda empezar por el primer tema y los ejercicios de
-autoevaluación correspondientes.
+GitHub](http://jj.github.io/IV). Si se desea, se puede mirar el [primer
+tema](http://jj.github.io/IV/documentos/temas/Intro_concepto_y_soporte_fisico)
+y hacer los ejercicios de autoevaluación correspondientes, que
+contribuirán a mejor conocimiento teórico de la asignatura, aunque no
+contribuyen, en general, a la evaluación.
 
 Se aconseja, pero no se obliga, a que se alcance el
 [objetivo cero de la asignatura](http://jj.github.io/IV/documentos/proyecto/0.Repositorio) al final de la clase "práctica" del grupo que se escoja, el viernes 17 de septiembre (10:30 o 14:30, según el que se haya elegido).
