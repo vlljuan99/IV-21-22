@@ -1,5 +1,5 @@
-# Objetivo 1
+# Objetivo 0
 
-| Nombre | URL | Versión |
-|--------|-----|---------|
-| JJ | [Proyecto](https://github.com/JJ/dummy-IV/pull/1) | 7 |
+| URL                                        | Versión |
+|--------------------------------------------|---------|
+|[Proyecto](https://github.com/JJ/dummy-IV/pull/1)    | 7       |
