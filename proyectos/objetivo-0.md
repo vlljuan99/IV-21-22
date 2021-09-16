@@ -59,3 +59,4 @@ línea con tus iniciales.
 | https://github.com/vlljuan99/gasolinapp/pull/5 | 0.0.1 | ✓ |
 | <!-- Enlace de JAntonioVR --> | | |
 | <!-- Enlace de pablozafra97 --> | | |
+| https://github.com/DFolchA/StatsOfLegends/pull/1 | 0.0.1 |
