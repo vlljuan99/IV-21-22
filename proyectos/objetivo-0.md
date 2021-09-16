@@ -14,7 +14,7 @@ línea con tus iniciales.
 | <!-- Enlace de Mapachana --> | |
 | <!-- Enlace de IgnasiCR --> | |
 | <!-- Enlace de eantoniocalo18 --> | |
-| <!-- Enlace de NachoCarher --> | |
+| <!-- Enlace de NachoCarher --> | https://github.com/NachoCarher/BeAShark/pull/1 | 0.0.1 |
 | <!-- Enlace de Balrrach --> | |
 | <!-- Enlace de alexespana --> | |
 | <!-- Enlace de E M J --> | |
