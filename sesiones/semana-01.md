@@ -80,7 +80,7 @@ enterarse de los contenidos impartidos en la misma a través de esta web, el gru
 [Introducción a git](http://jj.github.io/IV/preso/git.html#/). Antes del final
 de la sesión, [entregar el objetivo
 0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio) que se revisará
-sobre la marcha.
+sobre la marcha (dentro de lo posible).
 
 ## Material de la asignatura
 
@@ -92,7 +92,7 @@ contribuirán a mejor conocimiento teórico de la asignatura, aunque no
 contribuyen, en general, a la evaluación.
 
 Se aconseja, pero no se obliga, a que se alcance el
-[objetivo cero de la asignatura](http://jj.github.io/IV/documentos/proyecto/0.Repositorio) al final de la clase "práctica" del grupo que se escoja, el viernes 17 de septiembre (10:30 o 14:30, según el que se haya elegido).
+[objetivo cero de la asignatura](http://jj.github.io/IV/documentos/proyecto/0.Repositorio) al final de la clase "dividida" del grupo que se escoja, el viernes 17 de septiembre (10:30 o 14:30, según el que se haya elegido).
 
 ## Siguientes sesiones
 
