@@ -18,7 +18,7 @@ línea con tus iniciales.
 | <!-- Enlace de Balrrach --> | | |
 | <!-- Enlace de alexespana --> | | |
 | <!-- Enlace de E M J --> | | |
-| <!-- Enlace de MarinoFajardo --> | | |
+| https://github.com/MarinoFajardo/ProyectoIV/pull/1 | 0.0.1 | |
 | <!-- Enlace de danifm1321 --> | | |
 | <!-- Enlace de josevilchez247 --> | | |
 | <!-- Enlace de arguellesm --> | | |
