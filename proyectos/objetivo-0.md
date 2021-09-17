@@ -35,6 +35,7 @@ línea con tus iniciales.
 | <!-- Enlace de venrra --> | | |
 | https://github.com/Antobio17/IV/pull/1 | 0.0.1 | |
 | <!-- Enlace de J T M --> | | |
+| https://github.com/manujurado1/smartfootballapp/pull/1 | 0.0.1 | |
 | <!-- Enlace de migueorg --> | | |
 | <!-- Enlace de jesusmarzor --> | | |
 | <!-- Enlace de M B F A --> | | |
