@@ -37,14 +37,14 @@ línea con tus iniciales.
 | <!-- Enlace de J T M --> | | |
 | https://github.com/manujurado1/smartfootballapp/pull/1 | 0.0.1 | |
 | <!-- Enlace de migueorg --> | | |
-| https://github.com/jesusmarzor/IV/pull/1 | 0.0.1 | 
+| https://github.com/jesusmarzor/IV/pull/1 | 0.0.1 | | 
 | <!-- Enlace de M B F A --> | | |
 | <!-- Enlace de amerigal --> | | |
 | https://github.com/Asmilex/IV/pull/1 | 0.0.2 | |
 | <!-- Enlace de M P I --> | | |
 | <!-- Enlace de M H A --> | | |
 | <!-- Enlace de morevi --> | | |
-| https://github.com/Pablont98/IV/pull/2 | 0.0.1 | |
+| https://github.com/Pablont98/IV/pull/2 | 0.0.1 | ✓ |
 | <!-- Enlace de Slowmybrosh --> | | |
 | <!-- Enlace de O V S --> | | |
 | <!-- Enlace de O R J L --> | | |
