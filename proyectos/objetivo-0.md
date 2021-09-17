@@ -7,7 +7,7 @@ línea con tus iniciales.
 
 | URL                                        | Versión | Alcanzado |
 |--------------------------------------------|---------|-----------|
-| <!-- Enlace de A P G --> | | |
+| <!-- Enlace de noise-kngdm --> https://github.com/noise-kngdm/enumerathor/pull/1 | 0.0.1 | |
 | <!-- Enlace de A E M --> | | |
 | <!-- Enlace de LuisArostegui --> | | |
 | <!-- Enlace de Paszser --> | | |
