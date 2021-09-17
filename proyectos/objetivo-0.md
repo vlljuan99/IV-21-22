@@ -39,7 +39,7 @@ línea con tus iniciales.
 | <!-- Enlace de jesusmarzor --> | | |
 | <!-- Enlace de M B F A --> | | |
 | <!-- Enlace de amerigal --> | | |
-| https://github.com/Asmilex/IV/pull/1 | 0.0.1 | |
+| https://github.com/Asmilex/IV/pull/1 | 0.0.2 | |
 | <!-- Enlace de M P I --> | | |
 | <!-- Enlace de M H A --> | | |
 | <!-- Enlace de morevi --> | | |
