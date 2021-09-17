@@ -24,7 +24,7 @@ línea con tus iniciales.
 | <!-- Enlace de arguellesm --> | | |
 | <!-- Enlace de F A D --> | | |
 | <!-- Enlace de JaimeGM96 --> | | |
-| <!-- Enlace de agr8 --> | | |
+| https://github.com/agr8/Proyecto-IV/pull/1 | 0.0.1 | |
 | <!-- Enlace de Olasergiolas --> | | |
 | https://github.com/lentes4k/Proyecto-IV/pull/1 | 0.0.1 | |
 | <!-- Enlace de joaquingv12 --> | | |
