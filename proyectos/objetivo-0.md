@@ -43,7 +43,7 @@ línea con tus iniciales.
 | <!-- Enlace de M P I --> | | |
 | <!-- Enlace de M H A --> | | |
 | <!-- Enlace de morevi --> | | |
-| <!-- Enlace de Pablont98 --> | | |
+| https://github.com/Pablont98/IV/pull/2 | 0.0.1 | |
 | <!-- Enlace de Slowmybrosh --> | | |
 | <!-- Enlace de O V S --> | | |
 | <!-- Enlace de O R J L --> | | |
