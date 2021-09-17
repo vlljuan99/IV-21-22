@@ -36,7 +36,7 @@ línea con tus iniciales.
 | https://github.com/Antobio17/IV/pull/1 | 0.0.1 | ✓ |
 | <!-- Enlace de J T M --> | | |
 | <!-- Enlace de migueorg --> | | |
-| <!-- Enlace de jesusmarzor --> | | |
+| https://github.com/jesusmarzor/IV/pull/1 | 0.0.1 | 
 | <!-- Enlace de M B F A --> | | |
 | <!-- Enlace de amerigal --> | | |
 | <!-- Enlace de Asmilex --> | | |
