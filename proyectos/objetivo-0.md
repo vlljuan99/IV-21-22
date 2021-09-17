@@ -16,7 +16,7 @@ línea con tus iniciales.
 | <!-- Enlace de eantoniocalo18 --> | | |
 | https://github.com/NachoCarher/BeAShark/pull/1 | 0.0.1 | ✓ |
 | <!-- Enlace de Balrrach --> | | |
-| https://github.com/alexespana/Proyecto-IV/pull/1 | 0.0.1 | |
+| https://github.com/alexespana/Proyecto-IV/pull/1 | 0.0.1 | ✓ |
 | <!-- Enlace de E M J --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
 | <!-- Enlace de danifm1321 --> | | |
