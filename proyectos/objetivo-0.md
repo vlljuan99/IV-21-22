@@ -26,7 +26,7 @@ línea con tus iniciales.
 | <!-- Enlace de JaimeGM96 --> | | |
 | <!-- Enlace de agr8 --> | | |
 | <!-- Enlace de Olasergiolas --> | | |
-| <!-- Enlace de lentes4k --> | | |
+| https://github.com/lentes4k/Proyecto-IV/pull/1 | 0.0.1 | |
 | <!-- Enlace de joaquingv12 --> | | |
 | <!-- Enlace de gomares --> | | |
 | <!-- Enlace de modejota --> | | |
