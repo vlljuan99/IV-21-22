@@ -32,7 +32,7 @@ línea con tus iniciales.
 | <!-- Enlace de modejota --> | | |
 | <!-- Enlace de G R A A --> | | |
 | <!-- Enlace de H G J M --> | | |
-| <!-- Enlace de venrra --> | | |
+| https://github.com/venrra/NombreGenericoAPI/pull/1 | v0.0.0 | |
 | https://github.com/Antobio17/IV/pull/1 | 0.0.1 | |
 | <!-- Enlace de J T M --> | | |
 | <!-- Enlace de migueorg --> | | |
