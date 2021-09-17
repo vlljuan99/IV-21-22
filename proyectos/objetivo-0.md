@@ -29,7 +29,7 @@ línea con tus iniciales.
 | <!-- Enlace de lentes4k --> | | |
 | <!-- Enlace de joaquingv12 --> | | |
 | <!-- Enlace de gomares --> | | |
-| <!-- Enlace de modejota --> | | |
+| https://github.com/modejota/IVProject/pull/1 | 0.0.1 | |
 | <!-- Enlace de G R A A --> | | |
 | <!-- Enlace de H G J M --> | | |
 | <!-- Enlace de venrra --> | | |
