@@ -9,7 +9,7 @@ línea con tus iniciales.
 |--------------------------------------------|---------|-----------|
 | https://github.com/noise-kngdm/enumerathor/pull/1 | 0.0.1 | |
 | <!-- Enlace de A E M --> | | |
-| <!-- Enlace de LuisArostegui --> | | |
+| https://github.com/LuisArostegui/RealFoodRecipeCreator/pull/1 | 0.0.1 | |
 | https://github.com/Paszser/IV/pull/2 | 0.0.1 |✓ |
 | <!-- Enlace de Mapachana --> | | |
 | <!-- Enlace de IgnasiCR --> | | |
