@@ -59,6 +59,6 @@ línea con tus iniciales.
 | <!-- Enlace de paula1999 --> | | |
 | <!-- Enlace de xCyal --> | | |
 | https://github.com/vlljuan99/gasolinapp/pull/5 | 0.0.1 | ✓ |
-| <!-- Enlace de JAntonioVR --> | | |
+| https://github.com/JAntonioVR/IV-2021-2022/pull/1 | 0.0.1 | |
 | <!-- Enlace de pablozafra97 --> | | |
 | https://github.com/DFolchA/StatsOfLegends/pull/1 | 0.0.1 | ✓ |
