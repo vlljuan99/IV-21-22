@@ -52,6 +52,7 @@ línea con tus iniciales.
 | <!-- Enlace de Parka015 --> | | |
 | <!-- Enlace de S R E --> | | |
 | <!-- Enlace de LuisSS20 --> | | |
+| https://github.com/LuisSS20/StockAndPrices/pull/1 | 0.0.1 | |
 | <!-- Enlace de juanfran00 --> | | |
 | <!-- Enlace de Albertotc99 --> | | |
 | <!-- Enlace de aleveji --> | | |
