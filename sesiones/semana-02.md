@@ -20,7 +20,9 @@ asignadas al mismo.
 
 * Plantear los problemas que se tengan con el [objetivo 0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio).
 * Errores comunes en la entrega:
-  * Nadie ha puesto documentación sobre la creación y uso de claves. Algunos siguen con el avatar por omisión.
+  * Nadie ha puesto documentación sobre la creación y uso del par de claves.
+  * Tampoco sobre la configuración.
+  * Algunos siguen con el avatar por omisión.
 * Manejar de forma básica la línea de órdenes de Linux.
   * Incluyendo el cliente de GitHub (oficial gh o extraoficial hub).
 * Entender qué es lo que se pide en el proyecto de la asignatura, y
