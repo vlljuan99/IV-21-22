@@ -15,15 +15,11 @@ jobs:
             const checklist = /\s*[-\*]\s+\[\s*([xX]?)\s*\]\s+([A-Z]*):?/gm
             let body = context.payload.pull_request.body
             let match = checklist.exec(body)
-            let index = 1
             while (match != null) {
-              console.log( match )
-              let name = match[2].length > 1 ? match[2] : "CHECKBOX_"+index
               let value = match[1] ? true : false
-              core.exportVariable( name, value)
-              core.setOutput( name, value)
-              match = checklist.exec(body)
-              index++
+              if ( value === false ) {
+                  core.setFailed("⚠️ No has marcado " + $match[2] + "\n👉Es importante que sigáis la lista de comprobación en cada entrega" )
+              }
             }
       - name: Muestra el resultado
         run: echo ${GITHUB_ENV}
