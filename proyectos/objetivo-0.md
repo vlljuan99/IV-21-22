@@ -9,7 +9,7 @@ línea con tus iniciales.
 |--------------------------------------------|---------|-----------|
 | https://github.com/noise-kngdm/enumerathor/pull/1 | 0.0.1 | |
 | <!-- Enlace de A E M --> | | |
-| https://github.com/LuisArostegui/RealFoodRecipeCreator/pull/1 | 0.0.1 | |
+| https://github.com/LuisArostegui/RealFoodRecipeCreator/pull/1 | 0.0.1 |✓ |
 | https://github.com/Paszser/IV/pull/2 | 0.0.1 |✓ |
 | <!-- Enlace de Mapachana --> | | |
 | <!-- Enlace de IgnasiCR --> | | |
@@ -23,9 +23,9 @@ línea con tus iniciales.
 | https://github.com/josevilchez247/Odyssey/pull/1 | 0.0.1 |  |
 | <!-- Enlace de arguellesm --> | | |
 | <!-- Enlace de F A D --> | | |
-| https://github.com/JaimeGM96/Practica-IV/pull/1 | 0.0.1 | |
+| https://github.com/JaimeGM96/Practica-IV/pull/1 | 0.0.1 |  |
 | https://github.com/agr8/Proyecto-IV/pull/1 | 0.0.1 | ✓ |
-| https://github.com/Olasergiolas/Proyecto-IV/pull/1 | 0.0.1 | |
+| https://github.com/Olasergiolas/Proyecto-IV/pull/1 | 0.0.1 | ✓ |
 | https://github.com/lentes4k/Proyecto-IV/pull/1 | 0.0.1 | |
 | https://github.com/joaquingv12/Proyecto-IV/pull/1 | 0.0.1 | |
 | <!-- Enlace de gomares --> | | |
@@ -37,7 +37,7 @@ línea con tus iniciales.
 | <!-- Enlace de J T M --> | | |
 | https://github.com/manujurado1/smartfootballapp/pull/1 | 0.0.1 | ✓ |
 | <!-- Enlace de migueorg --> | | |
-| https://github.com/jesusmarzor/Proyecto-IV/pull/1 | 0.0.1 | |
+| https://github.com/jesusmarzor/Proyecto-IV/pull/1 | 0.0.1 | ✓  |
 | <!-- Enlace de M B F A --> | | |
 | <!-- Enlace de amerigal --> | | |
 | https://github.com/Asmilex/IV/pull/1 | 0.0.2 | |
