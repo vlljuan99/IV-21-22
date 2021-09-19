@@ -2,7 +2,7 @@
 
 ## Primero y mas importante
 
-* [ ] Prometo no cerrar ningún PR pase lo que pase.
+* [ ] NOCERRAR: No voy a cerrar ningún PR pase lo que pase.
 
 ## Lista de comprobación para hitos
 
