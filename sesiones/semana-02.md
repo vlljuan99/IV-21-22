@@ -18,14 +18,18 @@ asignadas al mismo.
 
 ## Contenidos
 
-* Plantear los problemas que se tengan con el [objetivo 0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio).
+* Plantear los problemas que se tengan con el [objetivo
+  0](http://jj.github.io/IV/documentos/proyecto/0.Repositorio).
+* Sobre las ideas:
+  - Mejores ideas: contienen la palabra "cálculo".
+  - Peores ideas: sólo almacenan y presentan.
 * Problemas comunes en la entrega:
   * Sólo un 20% lo ha hecho en clase.
   * Nadie ha puesto documentación sobre la creación y uso del par de claves.
   * Tampoco sobre la configuración.
   * Algunos siguen con el avatar por omisión.
 * Manejar de forma básica la línea de órdenes de Linux.
-  * Incluyendo el cliente de GitHub (oficial gh o extraoficial hub).
+  * Incluyendo el cliente de GitHub (oficia`gh` o extraoficial `hub`).
 * Entender qué es lo que se pide en el proyecto de la asignatura, y
   por tanto en el
   [objetivo del proyecto](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura)
