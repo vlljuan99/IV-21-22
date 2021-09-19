@@ -18,7 +18,7 @@ jobs:
             while (match != null) {
               let value = match[1] ? true : false
               if ( value === false ) {
-                  core.setFailed("⚠️ No has marcado " + $match[2] + "\n👉Es importante que sigáis la lista de comprobación en cada entrega" )
+                  core.setFailed("⚠️ No has marcado " + match[2] + "\n👉Es importante que sigáis la lista de comprobación en cada entrega" )
               }
             }
       - name: Muestra el resultado
