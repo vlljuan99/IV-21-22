@@ -1,4 +1,4 @@
-name: Obtiene los items marcados
+name: Se han hecho las tareas previas al PR
 on:
   pull_request:
     types: [opened,reopened]
@@ -13,13 +13,14 @@ jobs:
           github-token: ${{secrets.GITHUB_TOKEN}}
           script: |
             const checklist = /\s*[-\*]\s+\[\s*([xX]?)\s*\]\s+([A-Z]*):?/gm
-            let body = context.payload.pull_request.body
+            const body = context.payload.pull_request.body
             let match = checklist.exec(body)
             while (match != null) {
               let value = match[1] ? true : false
               if ( value === false ) {
                   core.setFailed("⚠️ No has marcado " + match[2] + "\n👉Es importante que sigáis la lista de comprobación en cada entrega" )
               }
+              match = checklist.exec(body)
             }
       - name: Muestra el resultado
         run: echo ${GITHUB_ENV}
