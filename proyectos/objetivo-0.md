@@ -45,7 +45,7 @@ línea con tus iniciales.
 | <!-- Enlace de M H A --> | | |
 | <!-- Enlace de morevi --> | | |
 | https://github.com/Pablont98/IV/pull/2 | 0.0.1 | ✓ |
-| https://github.com/Slowmybrosh/PracticaIV/pull/1 | 0.0.1 | |
+| https://github.com/Slowmybrosh/PracticaIV/pull/1 | 0.0.1 |✓ |
 | <!-- Enlace de O V S --> | | |
 | <!-- Enlace de O R J L --> | | |
 | https://github.com/Xileon310/IV-Project/pull/1 | | ✓ |
