@@ -11,7 +11,7 @@ línea con tus iniciales.
 | <!-- Enlace de A E M --> | | |
 | https://github.com/LuisArostegui/RealFoodRecipeCreator/pull/1 | 0.0.1 |✓ |
 | https://github.com/Paszser/IV/pull/2 | 0.0.1 |✓ |
-| <!-- Enlace de Mapachana --> | | |
+| https://github.com/Mapachana/Proyecto-IV/pull/1 | 0.0.1 | |
 | <!-- Enlace de IgnasiCR --> | | |
 | <!-- Enlace de eantoniocalo18 --> | | |
 | https://github.com/NachoCarher/BeAShark/pull/1 | 0.0.1 | ✓ |
