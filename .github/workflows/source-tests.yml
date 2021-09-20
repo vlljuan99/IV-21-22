@@ -10,7 +10,7 @@ jobs:
     outputs:
       user: ${{steps.pr_info.outputs.user}}
       repo: ${{steps.pr_info.outputs.repo}}
-      file: ${{steps.pr_info.outputs.file}}
+      objetivo: ${{steps.pr_info.outputs.objetivo}}
     steps:
       - id: pr_info
         name: Comprueba y analiza
@@ -23,7 +23,7 @@ jobs:
     env:
       user: ${{ needs.ops-on-pr.outputs.user }}
       repo: ${{ needs.ops-on-pr.outputs.repo }}
-      file: ${{ needs.ops-on-pr.outputs.file }}
+      objetivo: ${{ needs.ops-on-pr.outputs.objetivo }}
     steps:
       - name: Descarga fuente
         uses: actions/checkout@v2
@@ -40,7 +40,7 @@ jobs:
     env:
       user: ${{ needs.ops-on-pr.outputs.user }}
       repo: ${{ needs.ops-on-pr.outputs.repo }}
-      file: ${{ needs.ops-on-pr.outputs.file }}
+      objetivo: ${{ needs.ops-on-pr.outputs.objetivo }}
     steps:
       - name: Comprueba hitos en repo estudiante
         uses: actions/github-script@v3
