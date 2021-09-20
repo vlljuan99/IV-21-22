@@ -12,6 +12,6 @@ for glob( "proyectos/objetivo-*.md" ).sort: { $^a <=> $^b} -> $f {
     say sprintf( "%2d ⇒ ", $objetivo ),
             ("🚧" xx @entregados.elems - @aceptados.elems,
             "✅" xx @aceptados.elems,
-            "❌" xx $todos - @entregados.elems).Slip.join("");
+            "❌" xx $todos - @entregados.elems).Slip.join("\n     ");
 
 }
