@@ -43,12 +43,12 @@ jobs:
       objetivo: ${{ needs.ops-on-pr.outputs.objetivo }}
     steps:
       - name: Comprueba hitos en repo estudiante
-        uses: actions/github-script@v3
+        uses: actions/github-script@v4
         if: ${{env.objetivo >= 1}}
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
           script: |
-            const {objetivo_msg, all_good, sorry } = require("lib/mensajes.js")
+            const {objetivo_msg, all_good, sorry } = require("./lib/mensajes.js")
             const user = process.env.user
             const repo = process.env.repo
             const objetivo = process.env.objetivo
