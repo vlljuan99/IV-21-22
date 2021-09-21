@@ -11,7 +11,7 @@ línea con tus iniciales.
 | <!-- Enlace de A E M --> | | |
 | https://github.com/LuisArostegui/RealFoodRecipeCreator/pull/1 | 0.0.1 |✓ |
 | https://github.com/Paszser/IV/pull/2 | 0.0.1 |✓ |
-| https://github.com/Mapachana/Proyecto-IV/pull/1 | 0.0.1 | |
+| https://github.com/Mapachana/Proyecto-IV/pull/1 | 0.0.1 | ✓ |
 | <!-- Enlace de IgnasiCR --> | | |
 | <!-- Enlace de eantoniocalo18 --> | | |
 | https://github.com/NachoCarher/BeAShark/pull/1 | 0.0.1 | ✓ |
@@ -32,11 +32,11 @@ línea con tus iniciales.
 | https://github.com/modejota/IVProject/pull/1 | 0.0.1 | ✓ |
 | <!-- Enlace de G R A A --> | | |
 | <!-- Enlace de H G J M --> | | |
-| https://github.com/venrra/NombreGenericoAPI/pull/1  | v0.0.0 | |
+| https://github.com/venrra/NombreGenericoAPI/pull/1  | v0.0.0 | ✓ |
 | https://github.com/Antobio17/IV/pull/1 | 0.0.1 | ✓ |
 | <!-- Enlace de J T M --> | | |
 | https://github.com/manujurado1/smartfootballapp/pull/1 | 0.0.1 | ✓ |
-| https://github.com/migueorg/tmp-Proyecto-IV/pull/1 | 0.0.1 | |
+| https://github.com/migueorg/tmp-Proyecto-IV/pull/1 | 0.0.1 | ✓ |
 | https://github.com/jesusmarzor/Proyecto-IV/pull/1 | 0.0.1 | ✓  |
 | <!-- Enlace de M B F A --> | | |
 | <!-- Enlace de amerigal --> | | |

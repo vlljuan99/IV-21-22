@@ -44,6 +44,7 @@ jobs:
     steps:
       - name: Comprueba hitos en repo estudiante
         uses: actions/github-script@v3
+        if: ${{env.objetivo >= 1}}
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
           script: |
