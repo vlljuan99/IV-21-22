@@ -48,7 +48,7 @@ jobs:
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
           script: |
-            const {objetivo_msg, all_good, sorry } = require("./lib/mensajes.js")
+            const {objetivo_msg, all_good, sorry } = require("lib/mensajes.js")
             const user = process.env.user
             const repo = process.env.repo
             const objetivo = process.env.objetivo
