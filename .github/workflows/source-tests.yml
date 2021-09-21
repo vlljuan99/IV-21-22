@@ -34,7 +34,7 @@ jobs:
         with:
           fase: ${{env.file}}
         uses: JJ/grading-source-tests-gh-action@main
-  comprueba_hito_1:
+  ops-using-API:
     runs-on: ubuntu-latest
     needs: ops-on-pr
     env:
@@ -50,7 +50,7 @@ jobs:
         with:
           github-token: ${{secrets.GITHUB_TOKEN}}
           script: |
-            const {objetivo_msg, all_good, sorry } = require("lib/mensajes.js")
+            const {objetivo_msg, all_good, sorry } = require("./lib/mensajes.js")
             const user = process.env.user
             const repo = process.env.repo
             const objetivo = process.env.objetivo
