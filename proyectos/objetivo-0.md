@@ -8,7 +8,7 @@ línea con tus iniciales.
 | URL                                        | Versión | Alcanzado |
 |--------------------------------------------|---------|-----------|
 | https://github.com/noise-kngdm/music-matcher/pull/1 | 0.0.1 | |
-| <!-- Enlace de A E M --> | | |
+| https://github.com/Esturillo98/IV/pull/1 | 0.0.1 | |
 | https://github.com/LuisArostegui/RealFoodRecipeCreator/pull/1 | 0.0.1 |✓ |
 | https://github.com/Paszser/IV/pull/2 | 0.0.1 |✓ |
 | https://github.com/Mapachana/Proyecto-IV/pull/1 | 0.0.1 | ✓ |
@@ -27,7 +27,7 @@ línea con tus iniciales.
 | https://github.com/JaimeGM96/Practica-IV/pull/1 | 0.0.1 |  |
 | https://github.com/agr8/Proyecto-IV/pull/1 | 0.0.1 | ✓ |
 | https://github.com/Olasergiolas/Proyecto-IV/pull/1 | 0.0.1 | ✓ |
-| https://github.com/lentes4k/Proyecto-IV/pull/1 | 0.0.1 | |
+| https://github.com/lentes4k/Proyecto-IV/pull/2 | 0.0.1 | |
 | https://github.com/joaquingv12/Proyecto-IV/pull/1 | 0.0.1 | ✓ |
 | <!-- Enlace de gomares --> | | |
 | https://github.com/modejota/IVProject/pull/1 | 0.0.1 | ✓ |
