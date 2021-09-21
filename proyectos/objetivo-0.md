@@ -22,6 +22,7 @@ línea con tus iniciales.
 | <!-- Enlace de danifm1321 --> | | |
 | https://github.com/josevilchez247/Odyssey/pull/1 | 0.0.1 |  |
 | <!-- Enlace de arguellesm --> | | |
+| https://github.com/arguellesm/faux/pull/1 | 0.0.1 |  |
 | <!-- Enlace de F A D --> | | |
 | https://github.com/JaimeGM96/Practica-IV/pull/1 | 0.0.1 |  |
 | https://github.com/agr8/Proyecto-IV/pull/1 | 0.0.1 | ✓ |
