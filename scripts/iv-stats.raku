@@ -3,7 +3,7 @@
 
 use IO::Glob;
 
-for glob( "proyectos/objetivo-*.md" ).sort: { $^a <=> $^b} -> $f {
+for glob( "proyectos/objetivo-*.md" ).sort: { $^a cmp $^b} -> $f {
     my @contenido = $f.IO.lines;
     my $todos = @contenido.grep( /"|"/).elems -2;
     my @entregados = @contenido.grep( /github\.com/ );
