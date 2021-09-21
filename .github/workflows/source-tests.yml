@@ -42,6 +42,8 @@ jobs:
       repo: ${{ needs.ops-on-pr.outputs.repo }}
       objetivo: ${{ needs.ops-on-pr.outputs.objetivo }}
     steps:
+      - name: Descarga fuente
+        uses: actions/checkout@v2
       - name: Comprueba hitos en repo estudiante
         uses: actions/github-script@v4
         if: ${{env.objetivo >= 1}}
