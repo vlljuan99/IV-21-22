@@ -20,7 +20,7 @@ línea con tus iniciales.
 | <!-- Enlace de E M J --> | | |
 | https://github.com/MarinoFajardo/ProyectoIV/pull/2 | 0.0.1 | |
 | <!-- Enlace de danifm1321 --> | | |
-| https://github.com/josevilchez247/Odyssey/pull/1 | 0.0.1 |  |
+| https://github.com/josevilchez247/Odyssey/pull/1 | 0.0.1 | ✓ |
 | <!-- Enlace de arguellesm --> | | |
 | https://github.com/arguellesm/faux/pull/1 | 0.0.1 |  |
 | <!-- Enlace de F A D --> | | |
