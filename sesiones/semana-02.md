@@ -29,6 +29,7 @@ asignadas al mismo.
   * Algunos siguen con el avatar por omisión.
 * Manejar de forma básica la línea de órdenes de Linux.
   * Incluyendo el cliente de GitHub (oficial `gh` o extraoficial `hub`).
+* Entender el [desarrollo ágil](https://jj.github.io/IV/preso/ágil.html)
 * Entender qué es lo que se pide en el proyecto de la asignatura, y
   por tanto en el
   [objetivo del proyecto](http://jj.github.io/IV/documentos/proyecto/1.Infraestructura)
