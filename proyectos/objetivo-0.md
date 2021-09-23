@@ -31,7 +31,7 @@ línea con tus iniciales.
 | https://github.com/joaquingv12/Proyecto-IV/pull/1 | 0.0.1 | ✓ |
 | <!-- Enlace de gomares --> | | |
 | https://github.com/modejota/IVProject/pull/1 | 0.0.1 | ✓ |
-| <!-- Enlace de G R A A --> | | |
+| https://github.com/argelion14/proyecto-IV/pull/2 |0.0.5 | |
 | <!-- Enlace de H G J M --> | | |
 | https://github.com/venrra/NombreGenericoAPI/pull/1  | v0.0.0 | ✓ |
 | https://github.com/Antobio17/IV/pull/1 | 0.0.1 | ✓ |
