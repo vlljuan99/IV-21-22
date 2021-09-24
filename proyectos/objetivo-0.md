@@ -24,14 +24,14 @@ línea con tus iniciales.
 | <!-- Enlace de arguellesm --> | | |
 | https://github.com/arguellesm/faux/pull/1 | 0.0.1 |  |
 | <!-- Enlace de F A D --> | | |
-| https://github.com/JaimeGM96/Practica-IV/pull/1 | 0.0.1 |  |
+| https://github.com/JaimeGM96/Practica-IV/pull/1 | 0.0.1 | ✓ |
 | https://github.com/agr8/Proyecto-IV/pull/1 | 0.0.1 | ✓ |
 | https://github.com/Olasergiolas/Proyecto-IV/pull/1 | 0.0.1 | ✓ |
 | https://github.com/lentes4k/Proyecto-IV/pull/2 | 0.0.1 |✓ |
 | https://github.com/joaquingv12/Proyecto-IV/pull/1 | 0.0.1 | ✓ |
 | <!-- Enlace de gomares --> | | |
 | https://github.com/modejota/IVProject/pull/1 | 0.0.1 | ✓ |
-| https://github.com/argelion14/proyecto-IV/pull/2 |0.0.5 | |
+| https://github.com/argelion14/proyecto-IV/pull/2 |0.0.5 |✓ |
 | <!-- Enlace de H G J M --> | | |
 | https://github.com/venrra/NombreGenericoAPI/pull/1  | v0.0.0 | ✓ |
 | https://github.com/Antobio17/IV/pull/1 | 0.0.1 | ✓ |
@@ -50,9 +50,9 @@ línea con tus iniciales.
 | https://github.com/sorozcov/proyecto-iv-ugr/pull/1 | 0.0.1 | |
 | <!-- Enlace de O R J L --> | | |
 | https://github.com/Xileon310/IV-Project/pull/2 | 0.0.2 | ✓ |
-| https://github.com/Parka015/IV-Proyecto/pull/1 | 0.0.1 | |
+| https://github.com/Parka015/IV-Proyecto/pull/1 | 0.0.1 |✓ |
 | <!-- Enlace de S R E --> | | |
-| https://github.com/LuisSS20/StockAndPrices/pull/1 | 0.0.1 | |
+| https://github.com/LuisSS20/StockAndPrices/pull/1 | 0.0.1 | ✓ |
 |https://github.com/juanfran00/IV/pull/1 |0.0.2   | |
 | https://github.com/albertotc99/MercadoClubesPro/pull/1 | 0.0.1 | ✓ |
 | https://github.com/aleveji/BuscaRecetas/pull/1 | 0.0.2 | |
