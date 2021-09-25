@@ -1,0 +1,18 @@
+{
+  "auth" : "github:JJ",
+  "authors" : ["JJ Merelo"],
+  "depends" : [
+    "IO::Glob"
+  ],
+  "description" : "",
+  "license" : "Artistic-2.0",
+  "name" : "IV scripts",
+  "perl" : "6.d",
+  "resources" : [ ],
+  "source-url" : "https://github.com/JJ/IV-21-22.git",
+  "tags" : [
+    "scripts"
+  ],
+    "version" : "0.0.1",
+    "meta-version": 1
+}
