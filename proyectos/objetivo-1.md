@@ -10,7 +10,7 @@ línea con tus iniciales.
 | <!-- Enlace de noise-kngdm --> | | |
 | <!-- Enlace de Esturillo98 --> | | |
 | <!-- Enlace de LuisArostegui --> | | |
-| <!-- Enlace de Paszser --> | | |
+| https://github.com/Paszser/IV/pull/5 | 0.0.2 | |
 | <!-- Enlace de Mapachana --> | | |
 | <!-- Enlace de eantoniocalo18 --> | | |
 | <!-- Enlace de NachoCarher --> | | |
