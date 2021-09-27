@@ -18,15 +18,29 @@ pull request y estad atentos a LibreLabGRX para la siguiente convocatoria.
 
 * Consejos:
   * Corrige los errores en cuanto que ocurran.
-  * En generla, se van a corregir o mandar revisiones al objetivo sobre la marcha. El actuar lo antes posible permite tener más presente lo que se ha hecho y lo que se quiere hacer.
+  * En generla, se van a corregir o mandar revisiones al objetivo sobre la
+    marcha. El actuar lo antes posible permite tener más presente lo que se ha
+    hecho y lo que se quiere hacer.
+  * Trata de entender los conceptos antes de escribir. Si no lo tienes claro,
+    pregunta.
 * Objetivo 0:
   * Parte del problema, no de lo que quieres hacer.
-  * El problema debe resolverse, de forma ideal, en la nube, no con un aplicación de escritorio.
+  * El problema debe resolverse, de forma ideal, en la nube, no con una aplicación de escritorio.
   * Piensa en la proposición de valor (dónde está la pasta), relacionada con la lógica de negocio (qué es lo que hace la aplicación, más allá de almacenar y buscar).
 * Objetivo 1:
-  * Lo que se haga tiene que ser una planificación para *tu* proyecto *durante esta asignatura*.
-  * Usa toda la documentación adicional que necesites para entender la naturaleza del problema, los posibles usuarios (incluyendo, muy importante, el que va a dar pasta para el mismo), los *user journeys* (cómo se va a usar eventualmente la aplicación).
-  * Ordena las historias de usuario de forma que te guíen a por dónde empezar en la implementación, y por tanto qué producto mínimamente viable (=== milestone) vas a producir o publicar primero.
+  * Lo que se haga tiene que ser una planificación para *tu* proyecto *durante
+    esta asignatura*.
+    * Enséñale a alguien la planificació a ver si desde ahí podría ponerse a
+      programar. Planificar no es un ejercicio académico. Tenéis que entender
+      como se planifica, porque así es como se van desarrollando proyectos en la
+      nube.
+  * Usa toda la documentación adicional que necesites para entender la
+    naturaleza del problema, los posibles usuarios (incluyendo, muy importante,
+    el que va a dar pasta para el mismo), los *user journeys* (cómo se va a usar
+    eventualmente la aplicación), y otros conceptos como *épicas*.
+  * Ordena las historias de usuario de forma que te guíen a por dónde empezar en
+    la implementación, y por tanto qué producto mínimamente viable (===
+    milestone) vas a producir o publicar primero.
 
 ## Material para la clase
 
@@ -36,4 +50,4 @@ pull request y estad atentos a LibreLabGRX para la siguiente convocatoria.
 
 ## Siguientes sesiones
 
-[Tercera semana](semana-04.md)
+[Cuarta semana](semana-04.md)
