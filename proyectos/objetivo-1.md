@@ -56,6 +56,6 @@ línea con tus iniciales.
 | <!-- Enlace de aleveji --> | | |
 | <!-- Enlace de paula1999 --> | | |
 | <!-- Enlace de xCyal --> | | |
-| [vlljuan99](https://github.com/vlljuan99/gasolinapp/pull/11) | | |
+| [vlljuan99](https://github.com/vlljuan99/gasolinapp/pull/11) | 0.0.2 | |
 | <!-- Enlace de JAntonioVR --> | | |
 | <!-- Enlace de pablozafra97 --> | | |
