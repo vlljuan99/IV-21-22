@@ -10,7 +10,7 @@ línea con tus iniciales.
 | <!-- Enlace de noise-kngdm --> | | |
 | <!-- Enlace de Esturillo98 --> | | |
 | [LuisArostegui](https://github.com/LuisArostegui/RealFoodRecipeCreator/pull/6) | 0.0.2 | |
-| https://github.com/Paszser/IV/pull/5 | 0.0.2 | |
+| https://github.com/Paszser/IV/pull/5 | 0.0.2 |  |
 | https://github.com/Mapachana/Proyecto-IV/pull/5 | 0.0.2 | |
 | <!-- Enlace de eantoniocalo18 --> | | |
 | <!-- Enlace de NachoCarher --> | | |
@@ -43,7 +43,7 @@ línea con tus iniciales.
 | [Asmilex](https://github.com/Asmilex/IV/pull/6) | 0.0.3 | |
 | https://github.com/ismaelmontesinos/PracticaIV/pull/3 | 0.0.2 | |
 | <!-- Enlace de morevi --> | | |
-| https://github.com/Pablont98/IV/pull/8 | 0.0.2 | |
+| https://github.com/Pablont98/IV/pull/8 | 0.0.2 | ✓ |
 | <!-- Enlace de Slowmybrosh --> | | |
 | <!-- Enlace de sorozcov --> | | |
 | <!-- Enlace de jlortega00 --> | | |
