@@ -33,14 +33,14 @@ línea con tus iniciales.
 | <!-- Enlace de argelion14 --> | | |
 | <!-- Enlace de juanmihdz --> | | |
 | <!-- Enlace de venrra --> | | |
-| [Antobio17](https://github.com/Antobio17/IV/pull/5) | 0.0.2 | |
+| [Antobio17](https://github.com/Antobio17/IV/pull/5) | 0.0.2 | ✓ |
 | <!-- Enlace de manujurado1 --> | | |
 | <!-- Enlace de L C G J --> | | |
 | <!-- Enlace de migueorg --> | | |
-| [jesusmarzor](https://github.com/jesusmarzor/Proyecto-IV/pull/6) | 0.0.3 | |
+| [jesusmarzor](https://github.com/jesusmarzor/Proyecto-IV/pull/6) | 0.0.3 | ✓ |
 | <!-- Enlace de francisco3207 --> | | |
 | <!-- Enlace de amerigal --> | | |
-| [Asmilex](https://github.com/Asmilex/IV/pull/6) | 0.0.3 | |
+| [Asmilex](https://github.com/Asmilex/IV/pull/6) | 0.0.3 |✓ |
 | https://github.com/ismaelmontesinos/PracticaIV/pull/3 | 0.0.2 | |
 | <!-- Enlace de morevi --> | | |
 | https://github.com/Pablont98/IV/pull/8 | 0.0.2 | ✓ |
