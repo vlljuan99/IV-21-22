@@ -9,7 +9,7 @@ for glob( "proyectos/objetivo-*.md" ).sort: { $^a cmp $^b} -> $f {
     my @entregados = @contenido.grep( /github\.com/ );
     my @aceptados = @entregados.grep( /"✓"/ );
     my $objetivo = + ($f ~~ /(\d+)/);
-    say sprintf( "%2d 🧮: %2d🚧 %2d✅ %2d❌ ⇒ \n     ",
+    say sprintf( "%2d 🧮: %2d%%🚧 %2d%%✅ %2d%%❌ ⇒ \n     ",
             $objetivo,
             (@entregados.elems - @aceptados.elems)*100/ $todos,
             @aceptados.elems*100/ $todos,
