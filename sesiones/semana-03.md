@@ -9,6 +9,19 @@ asignadas al mismo.
 etiqueta *hacktoberfest* en todo GitHub y referenciarlos al hacer los
 pull request y estad atentos a LibreLabGRX para la siguiente convocatoria.
 
+## Estado actual
+
+```
+ 0 🧮: 12🚧 65✅ 21❌ ⇒ 
+     🚧 🚧 🚧 🚧 🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 1 🧮: 21🚧 11✅ 67❌ ⇒ 
+     🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+```
+
 ## Objetivos a cubrir en la sesión
 
 1. Entender cómo se empieza a diseñar el código de una aplicación desde 0.
@@ -22,7 +35,11 @@ pull request y estad atentos a LibreLabGRX para la siguiente convocatoria.
     marcha. El actuar lo antes posible permite tener más presente lo que se ha
     hecho y lo que se quiere hacer.
   * Trata de entender los conceptos antes de escribir. Si no lo tienes claro,
-    pregunta.
+    pregunta o consulta en cualquier fuente medianamente autoritativa. Antes de
+    entregarlo, mira a ver si lo que has hecho corresponde con el concepto
+    generalmente aceptado y realmente alcanza el objetivo práctico que se
+    ofrece. Si no lo haces así, va a ser más trabajo para ti (y por supuesto
+    para el profesor).
 * Objetivo 0:
   * Parte del problema, no de lo que quieres hacer.
   * El problema debe resolverse, de forma ideal, en la nube, no con una aplicación de escritorio.
