@@ -20,7 +20,7 @@ línea con tus iniciales.
 | <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
 | <!-- Enlace de danifm1321 --> | | |
-| <!-- Enlace de josevilchez247 --> | | |
+| https://github.com/josevilchez247/Odyssey/pull/4 | 0.0.2 | |
 | <!-- Enlace de arguellesm --> | | |
 | <!-- Enlace de DFolchA --> | | |
 | <!-- Enlace de JaimeGM96 --> | | |
