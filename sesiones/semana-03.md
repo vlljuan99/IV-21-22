@@ -12,14 +12,14 @@ pull request y estad atentos a LibreLabGRX para la siguiente convocatoria.
 ## Estado actual
 
 ```
- 0 🧮: 12%🚧 65%✅ 21%❌ ⇒ 
-     🚧 🚧 🚧 🚧 🚧 🚧 🚧
-     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+ 0 🧮: 10%🚧 67%✅ 21%❌ ⇒ 
+     🚧 🚧 🚧 🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
      ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
- 1 🧮: 21%🚧 11%✅ 67%❌ ⇒ 
-     🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧
-     ✅ ✅ ✅ ✅ ✅ ✅
-     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 1 🧮: 25%🚧 13%✅ 61%❌ ⇒ 
+     🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
 ```
 
 ## Objetivos a cubrir en la sesión
@@ -61,9 +61,14 @@ pull request y estad atentos a LibreLabGRX para la siguiente convocatoria.
 
 ## Material para la clase
 
+* [Planteando un proyecto](https://jj.github.io/curso-tdd/temas/ddd.html)
+* [Descripción de una
+  entidad](https://jj.github.io/IV/documentos/proyecto/2.Entidad), según la
+  metodología de *domain driven design*.
 
 ## Material adicional
 
+* [Introducción a diferentes conceptos de infraestructura virtual](http://jj.github.io/IV/documentos/temas/Intro_concepto_y_soporte_fisico)
 
 ## Siguientes sesiones
 
