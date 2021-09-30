@@ -26,7 +26,7 @@ línea con tus iniciales.
 | https://github.com/JaimeGM96/Practica-IV/pull/5 | 0.0.2 | |
 | <!-- Enlace de agr8 --> | | |
 | https://github.com/Olasergiolas/Proyecto-IV/pull/5 | 0.0.2 | |
-| https://github.com/lentes4k/Proyecto-IV/pull/12 | 0.0.2 | |
+| https://github.com/lentes4k/Proyecto-IV/pull/12 | 0.0.2 |✓ |
 | https://github.com/joaquingv12/Proyecto-IV/pull/5 | 0.0.2 | |
 | <!-- Enlace de gomares --> | | |
 | https://github.com/modejota/IVProject/pull/13 | 0.0.2 | ✓ |
@@ -56,6 +56,6 @@ línea con tus iniciales.
 | <!-- Enlace de aleveji --> | | |
 | [paula1999](https://github.com/paula1999/IV/pull/5) | 0.0.2 | |
 | <!-- Enlace de xCyal --> | | |
-| [vlljuan99](https://github.com/vlljuan99/gasolinapp/pull/11) | 0.0.2 | |
+| [vlljuan99](https://github.com/vlljuan99/gasolinapp/pull/11) | 0.0.2 | ✓ |
 | [JAntonioVR](https://github.com/JAntonioVR/IV-2021-2022/pull/8) | 0.0.2 | |
 | <!-- Enlace de pablozafra97 --> | | |
