@@ -19,7 +19,7 @@ línea con tus iniciales.
 | <!-- Enlace de E M J --> | | |
 | https://github.com/MarinoFajardo/AhorraLuz/pull/1 | 0.0.1 | ✓ |
 | https://github.com/danifm1321/proyectoIV/pull/1 | 0.0.1 | ✓ |
-| https://github.com/josevilchez247/Odyssey/pull/5 | 0.0.1 | |
+| https://github.com/josevilchez247/Odyssey/pull/5 | 0.0.1 | ✓ |
 | <!-- Enlace de arguellesm --> | | |
 | https://github.com/arguellesm/faux/pull/1 | 0.0.1 |  |
 | <!-- Enlace de F A D --> | | |
@@ -31,7 +31,7 @@ línea con tus iniciales.
 | <!-- Enlace de gomares --> | | |
 | https://github.com/modejota/IVProject/pull/1 | 0.0.1 | ✓ |
 | https://github.com/argelion14/proyecto-IV/pull/2 |0.0.5 |✓ |
-| <https://github.com/juanmihdz/Proyecto-IV/pull/1 | | |
+| https://github.com/juanmihdz/Proyecto-IV/pull/1 | | |
 | https://github.com/venrra/NombreGenericoAPI/pull/1  | v0.0.0 | ✓ |
 | https://github.com/Antobio17/IV/pull/1 | 0.0.1 | ✓ |
 | <!-- Enlace de J T M --> | | |
