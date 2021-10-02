@@ -27,7 +27,7 @@ línea con tus iniciales.
 | https://github.com/agr8/Proyecto-IV/pull/11 | 0.0.2 | |
 | https://github.com/Olasergiolas/Proyecto-IV/pull/5 | 0.0.2 | |
 | https://github.com/lentes4k/Proyecto-IV/pull/12 | 0.0.2 |✓ |
-| https://github.com/joaquingv12/Proyecto-IV/pull/5 | 0.0.2 | |
+| https://github.com/joaquingv12/Proyecto-IV/pull/5 | 0.0.2 |✓ |
 | <!-- Enlace de gomares --> | | |
 | https://github.com/modejota/IVProject/pull/13 | 0.0.2 | ✓ |
 | <!-- Enlace de argelion14 --> | | |
