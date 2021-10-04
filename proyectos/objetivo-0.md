@@ -12,7 +12,7 @@ línea con tus iniciales.
 | https://github.com/LuisArostegui/RealFoodRecipeCreator/pull/1 | 0.0.1 |✓ |
 | https://github.com/Paszser/IV/pull/2 | 0.0.1 |✓ |
 | https://github.com/Mapachana/Proyecto-IV/pull/1 | 0.0.1 | ✓ |
-| https://github.com/eantoniocalo18/IV/pull/3 | 0.0.1 |   |
+| https://github.com/eantoniocalo18/IV/pull/3 | 0.0.1 | ✓  |
 | https://github.com/NachoCarher/BeAShark/pull/1 | 0.0.1 | ✓ |
 | https://github.com/Balrrach/IV-Proyecto/pull/1º | 0.0.1 |✓ |
 | https://github.com/alexespana/Proyecto-IV/pull/1 | 0.0.1 | ✓ |
