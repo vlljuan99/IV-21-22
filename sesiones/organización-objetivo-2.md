@@ -53,6 +53,6 @@
 | https://github.com/aleveji/BuscaRecetas/pull/4 |  |
 | [paula1999](https://github.com/paula1999/IV/pull/5) | |
 | <!-- Enlace de xCyal --> | | |
-| [vlljuan99](https://github.com/vlljuan99/gasolinapp/pull/11) |  |
+| [vlljuan99](https://github.com/vlljuan99/gasolinapp/pull/11) | @paula1999 |
 | [JAntonioVR](https://github.com/JAntonioVR/IV-2021-2022/pull/8) | |
 | <!-- Enlace de pablozafra97 --> | | |
