@@ -17,7 +17,7 @@
 | <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
 | <!-- Enlace de danifm1321 --> | | |
-| https://github.com/josevilchez247/Odyssey/pull/8 |  |
+| https://github.com/josevilchez247/Odyssey/pull/8 | @jantonioVR |
 | <!-- Enlace de arguellesm --> | | |
 | <!-- Enlace de DFolchA --> | | |
 | https://github.com/JaimeGM96/Practica-IV/pull/5 |  |
