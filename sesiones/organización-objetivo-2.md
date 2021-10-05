@@ -8,7 +8,7 @@
 | <!-- Enlace de Esturillo98 --> | | |
 | [LuisArostegui](https://github.com/LuisArostegui/RealFoodRecipeCreator/pull/6) | |
 | https://github.com/Paszser/IV/pull/5 | @alexespana |
-| https://github.com/Mapachana/Proyecto-IV/pull/5 |  |
+| https://github.com/Mapachana/Proyecto-IV/pull/5 | @Pablont98 |
 | <!-- Enlace de eantoniocalo18 --> | | |
 | <!-- Enlace de NachoCarher --> | | |
 | <!-- Enlace de C L A --> | | |
