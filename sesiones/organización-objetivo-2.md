@@ -22,7 +22,7 @@
 | <!-- Enlace de DFolchA --> | | |
 | https://github.com/JaimeGM96/Practica-IV/pull/5 |  |
 | https://github.com/agr8/Proyecto-IV/pull/11 | @modejota  |
-| https://github.com/Olasergiolas/Proyecto-IV/pull/5 |  |
+| https://github.com/Olasergiolas/Proyecto-IV/pull/5 | @agr8 |
 | https://github.com/lentes4k/Proyecto-IV/pull/12 | @Paszser |
 | https://github.com/joaquingv12/Proyecto-IV/pull/5 |  |
 | <!-- Enlace de gomares --> | | |
@@ -56,3 +56,4 @@
 | [vlljuan99](https://github.com/vlljuan99/gasolinapp/pull/11) | @paula1999 |
 | [JAntonioVR](https://github.com/JAntonioVR/IV-2021-2022/pull/8) | @mapachana |
 | <!-- Enlace de pablozafra97 --> | | |
+
