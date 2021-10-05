@@ -23,7 +23,7 @@
 | https://github.com/JaimeGM96/Practica-IV/pull/5 |  |
 | https://github.com/agr8/Proyecto-IV/pull/11 | @modejota  |
 | https://github.com/Olasergiolas/Proyecto-IV/pull/5 |  |
-| https://github.com/lentes4k/Proyecto-IV/pull/12 |  |
+| https://github.com/lentes4k/Proyecto-IV/pull/12 | @Paszser |
 | https://github.com/joaquingv12/Proyecto-IV/pull/5 |  |
 | <!-- Enlace de gomares --> | | |
 | https://github.com/modejota/IVProject/pull/13 |  |
