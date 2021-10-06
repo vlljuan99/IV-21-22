@@ -74,12 +74,13 @@ jobs:
                 core.setFailed( sorry("No hay ningún issue en tus milestones"))
             }
 
-            console.log( objetivo_msg(2) )
             let issues;
-            if ( process.env.objetivo >= 2 ) {
+            if ( objetivo >= 2 ) {
+                console.log( objetivo_msg(2) )
                 const non_paginated_issues = await github.issues.listForRepo.endpoint.merge( { owner: user, repo: repo })
                 issues = await github.paginate( non_paginated_issues )
                 const closed_issues = issues.filter( issue => issue.state === "closed" )
+                console.log(closed_issues)
                 closed_issues.forEach( async function( issue ) {
                   if ( ! issue.pull_request ) {
                     const query = `query($owner:String!, $name:String!, $issue:Int!) {
