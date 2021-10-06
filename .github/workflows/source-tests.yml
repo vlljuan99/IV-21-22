@@ -77,7 +77,7 @@ jobs:
             let issues;
             if ( objetivo >= 2 ) {
                 console.log( objetivo_msg(2) )
-                const non_paginated_issues = await github.issues.listForRepo.endpoint.merge( { owner: user, repo: repo })
+                const non_paginated_issues = await github.issues.listForRepo.endpoint.merge( { owner: user, repo: repo, state: 'all' })
                 issues = await github.paginate( non_paginated_issues )
                 console.log( issues )
                 const closed_issues = issues.filter( issue => issue.state === "closed" )

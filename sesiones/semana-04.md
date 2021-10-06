@@ -4,6 +4,8 @@
 etiqueta *hacktoberfest* en todo GitHub y referenciarlos al hacer los
 pull request y estad atentos a LibreLabGRX para la siguiente convocatoria.
 
+Por ejemplo, en [el material de la asignatura](https://github.com/JJ/IV).
+
 ## Objetivos a cubrir en la sesión
 
 1. Entender el concepto de tests
