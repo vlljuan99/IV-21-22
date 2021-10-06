@@ -6,7 +6,7 @@
 |--------------------------------------------|---------------------|
 | [noise-kngdm](https://github.com/noise-kngdm/music-matcher/pull/6) | @joaquingv12 |
 | <!-- Enlace de Esturillo98 --> | | |
-| [LuisArostegui](https://github.com/LuisArostegui/RealFoodRecipeCreator/pull/6) | |
+| [LuisArostegui](https://github.com/LuisArostegui/RealFoodRecipeCreator/pull/6) | venrra |
 | https://github.com/Paszser/IV/pull/5 | @alexespana |
 | https://github.com/Mapachana/Proyecto-IV/pull/5 | @Pablont98 |
 | <!-- Enlace de eantoniocalo18 --> | | |
