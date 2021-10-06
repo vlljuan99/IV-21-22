@@ -79,9 +79,7 @@ jobs:
                 console.log( objetivo_msg(2) )
                 const non_paginated_issues = await github.issues.listForRepo.endpoint.merge( { owner: user, repo: repo, state: 'all' })
                 issues = await github.paginate( non_paginated_issues )
-                console.log( issues )
                 const closed_issues = issues.filter( issue => issue.state === "closed" )
-                console.log(closed_issues)
                 closed_issues.forEach( async function( issue ) {
                   if ( ! issue.pull_request ) {
                     const query = `query($owner:String!, $name:String!, $issue:Int!) {
@@ -109,12 +107,12 @@ jobs:
                     if ( result.repository.issue.timelineItems.nodes[0].closer != null ) {
                             const closingEvent = result.repository.issue.timelineItems.nodes[0].closer.__typename
                             if ( (closingEvent == 'Commit') || (closingEvent == 'PullRequest') ) {
-                                console.log(" ✅ El issue " + issue.number + " se cerró con un " + closingEvent )
+                                console.log(all_good("El issue " + issue.number + " se 🔒 con un " + closingEvent ))
                             } else {
-                                core.setFailed( "❌ El issue " + issue.number + " no se cerró con un commit o PR")
+                                core.setFailed( sorry("El issue " + issue.number + " no se cerró con un commit o PR"))
                             }
                     } else {
-                      console.log( "❌ El issue " + issue.number + " no está cerrado aunque aparece en la lista de tales " )
+                      console.log( sorry(" El issue " + issue.number + " no está cerrado aunque aparece en la lista de tales " ))
                     }
                 }
               })
