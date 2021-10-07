@@ -29,7 +29,7 @@
 | https://github.com/modejota/IVProject/pull/13 |  |
 | https://github.com/argelion14/proyecto-IV/pull/4 | |
 | <!-- Enlace de juanmihdz --> | | |
-| <!-- Enlace de venrra --> | | |
+| [venrra](https://github.com/venrra/apiTrainer/pull/7) | josevilchez247 |
 | [Antobio17](https://github.com/Antobio17/IV/pull/5) |  |
 | <!-- Enlace de manujurado1 --> | | |
 | <!-- Enlace de L C G J --> | | |
