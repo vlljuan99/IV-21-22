@@ -6,6 +6,19 @@ pull request y estad atentos a LibreLabGRX para la siguiente convocatoria.
 
 Por ejemplo, en [el material de la asignatura](https://github.com/JJ/IV).
 
+## Estado de los objetivos
+
+```
+ 0 🧮:  5%🚧 79%✅ 14%❌ ⇒ 
+     🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 1 🧮: 26%🚧 32%✅ 41%❌ ⇒ 
+     🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+```
+
 ## Objetivos a cubrir en la sesión
 
 1. Entender el concepto de configuración como código
