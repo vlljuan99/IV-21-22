@@ -8,17 +8,20 @@ Por ejemplo, en [el material de la asignatura](https://github.com/JJ/IV).
 
 ## Objetivos a cubrir en la sesión
 
-1. Entender el concepto de tests
-2. Entender los diferentes niveles de tests, y cómo se corresponden con los
-   objetivos que se han hecho hasta ahora.
-3. Entender cómo justificar decisiones técnicas: ADRs o similares.
+1. Entender el concepto de configuración como código
+2. Entender el concepto de gestores de tareas
+3. Entender La importancia de la automatización
 
 ## Contenidos
+
+* [Herramientas de construcción, de tareas y
+  similares](http://jj.github.io/IV/documentos/temas/Desarrollo_basado_en_pruebas#vamos-a-hacer-una-aplicaci%C3%B3n-gestionar-porras-de-f%C3%BAtbol):
+  qué son, para qué sirven, como se usan
 
 ## Material para la clase
 
 
-## Material adicional
+* [Automatizar](http://jj.github.io/IV/documentos/proyectos/3.Automatizar)
 
 
 ## Siguientes sesiones
