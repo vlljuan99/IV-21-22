@@ -30,17 +30,17 @@
 | https://github.com/argelion14/proyecto-IV/pull/4 | @luisarostegui |
 | <!-- Enlace de juanmihdz --> | | |
 | [venrra](https://github.com/venrra/apiTrainer/pull/7) | josevilchez247 |
-| [Antobio17](https://github.com/Antobio17/IV/pull/5) |  |
+| [Antobio17](https://github.com/Antobio17/IV/pull/5) | argelion14 |
 | <!-- Enlace de manujurado1 --> | | |
 | <!-- Enlace de L C G J --> | | |
 | <!-- Enlace de migueorg --> | | |
 | [jesusmarzor](https://github.com/jesusmarzor/Proyecto-IV/pull/6) | @Balrrach |
 | <!-- Enlace de francisco3207 --> | | |
-| <!-- Enlace de amerigal --> | | |
+| [amerigal](https://github.com/amerigal/proyecto_iv/pull/5)  | venrra |
 | [Asmilex](https://github.com/Asmilex/IV/pull/6) | |
 | https://github.com/ismaelmontesinos/PracticaIV/pull/3 | |
 | <!-- Enlace de morevi --> | | |
-| https://github.com/Pablont98/IV/pull/8 | |
+| https://github.com/Pablont98/IV/pull/8 | @vlljuan99 |
 | https://github.com/Slowmybrosh/PracticaIV/pull/10 |  |
 | <!-- Enlace de sorozcov --> | | |
 | <!-- Enlace de jlortega00 --> | | |
