@@ -37,7 +37,7 @@
 | [jesusmarzor](https://github.com/jesusmarzor/Proyecto-IV/pull/6) | @Balrrach |
 | <!-- Enlace de francisco3207 --> | | |
 | [amerigal](https://github.com/amerigal/proyecto_iv/pull/5)  | venrra |
-| [Asmilex](https://github.com/Asmilex/IV/pull/6) | |
+| [Asmilex](https://github.com/Asmilex/IV/pull/6) | Parka015 |
 | https://github.com/ismaelmontesinos/PracticaIV/pull/3 | |
 | <!-- Enlace de morevi --> | | |
 | https://github.com/Pablont98/IV/pull/8 | @vlljuan99 |
@@ -45,7 +45,7 @@
 | <!-- Enlace de sorozcov --> | | |
 | <!-- Enlace de jlortega00 --> | | |
 | [Xileon310](https://github.com/Xileon310/IV-Project/pull/12) | |
-| <!-- Enlace de Parka015 --> | | |
+| [Parka015](https://github.com/Parka015/IV-Proyecto/pull/6)| | |
 | <!-- Enlace de edusegrich --> | | |
 | <!-- Enlace de LuisSS20 --> | | |
 | <!-- Enlace de juanfran00 --> | | |
