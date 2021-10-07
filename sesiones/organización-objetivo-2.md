@@ -24,10 +24,10 @@
 | https://github.com/agr8/Proyecto-IV/pull/11 | @modejota  |
 | https://github.com/Olasergiolas/Proyecto-IV/pull/5 | @agr8 |
 | https://github.com/lentes4k/Proyecto-IV/pull/12 | @Paszser |
-| https://github.com/joaquingv12/Proyecto-IV/pull/5 |  |
+| https://github.com/joaquingv12/Proyecto-IV/pull/5 | @jesusmarzor |
 | <!-- Enlace de gomares --> | | |
 | https://github.com/modejota/IVProject/pull/13 | @lentes4k |
-| https://github.com/argelion14/proyecto-IV/pull/4 | |
+| https://github.com/argelion14/proyecto-IV/pull/4 | @joaquingv12 |
 | <!-- Enlace de juanmihdz --> | | |
 | [venrra](https://github.com/venrra/apiTrainer/pull/7) | josevilchez247 |
 | [Antobio17](https://github.com/Antobio17/IV/pull/5) |  |
