@@ -32,7 +32,7 @@ jobs:
           ref: ${{env.rama}}
       - name: Tests sobre fuentes
         with:
-          fase: ${{env.file}}
+          fase: ${{env.objetivo}}
         uses: JJ/grading-source-tests-gh-action@main
   ops-using-API:
     runs-on: ubuntu-latest
