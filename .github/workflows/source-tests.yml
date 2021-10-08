@@ -11,6 +11,7 @@ jobs:
       user: ${{steps.pr_info.outputs.user}}
       repo: ${{steps.pr_info.outputs.repo}}
       objetivo: ${{steps.pr_info.outputs.objetivo}}
+      rama: ${{steps.pr_info.outputs.rama}}
     steps:
       - id: pr_info
         name: Comprueba y analiza
@@ -24,6 +25,7 @@ jobs:
       user: ${{ needs.ops-on-pr.outputs.user }}
       repo: ${{ needs.ops-on-pr.outputs.repo }}
       objetivo: ${{ needs.ops-on-pr.outputs.objetivo }}
+      rama: ${{ needs.ops-on-pr.outputs.rama }}
     steps:
       - name: Descarga fuente
         uses: actions/checkout@v2
