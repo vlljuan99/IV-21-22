@@ -25,7 +25,7 @@ jobs:
     env:
       user: ${{ needs.ops-on-pr.outputs.user }}
       repo: ${{ needs.ops-on-pr.outputs.repo }}
-      repo: ${{ needs.ops-on-pr.outputs.checkout_repo }}
+      checkout_repo: ${{ needs.ops-on-pr.outputs.checkout_repo }}
       objetivo: ${{ needs.ops-on-pr.outputs.objetivo }}
       rama: ${{ needs.ops-on-pr.outputs.rama }}
     steps:
