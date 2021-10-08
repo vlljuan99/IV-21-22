@@ -10,6 +10,7 @@ jobs:
     outputs:
       user: ${{steps.pr_info.outputs.user}}
       repo: ${{steps.pr_info.outputs.repo}}
+      checkout_repo: ${{steps.pr_info.outputs.checkout_repo}}
       objetivo: ${{steps.pr_info.outputs.objetivo}}
       rama: ${{steps.pr_info.outputs.rama}}
     steps:
@@ -24,13 +25,14 @@ jobs:
     env:
       user: ${{ needs.ops-on-pr.outputs.user }}
       repo: ${{ needs.ops-on-pr.outputs.repo }}
+      repo: ${{ needs.ops-on-pr.outputs.checkout_repo }}
       objetivo: ${{ needs.ops-on-pr.outputs.objetivo }}
       rama: ${{ needs.ops-on-pr.outputs.rama }}
     steps:
       - name: Descarga fuente
         uses: actions/checkout@v2
         with:
-          repository: ${{env.user}}/${{env.repo}}
+          repository: ${{checkout_repo}}
           ref: ${{env.rama}}
       - name: Tests sobre fuentes
         with:
