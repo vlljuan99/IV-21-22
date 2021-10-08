@@ -9,14 +9,15 @@ Por ejemplo, en [el material de la asignatura](https://github.com/JJ/IV).
 ## Estado de los objetivos
 
 ```
- 0 🧮:  5%🚧 79%✅ 14%❌ ⇒ 
-     🚧 🚧 🚧
+ 0 🧮:  7%🚧 79%✅ 12%❌ ⇒ 
+     🚧 🚧 🚧 🚧
      ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
-     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
- 1 🧮: 26%🚧 32%✅ 41%❌ ⇒ 
-     🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧
-     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
+     ❌ ❌ ❌ ❌ ❌ ❌ ❌
+ 1 🧮: 16%🚧 41%✅ 41%❌ ⇒ 
+     🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧
+     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
      ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+
 ```
 
 ## Objetivos a cubrir en la sesión
@@ -29,7 +30,8 @@ Por ejemplo, en [el material de la asignatura](https://github.com/JJ/IV).
 
 * [Herramientas de construcción, de tareas y
   similares](http://jj.github.io/IV/documentos/temas/Desarrollo_basado_en_pruebas#vamos-a-hacer-una-aplicaci%C3%B3n-gestionar-porras-de-f%C3%BAtbol):
-  qué son, para qué sirven, como se usan
+  qué son, para qué sirven, como se usan.
+  * [Presentación](https://jj.github.io/IV/preso/gestores-tareas.html).
 
 ## Material para la clase
 
