@@ -4,7 +4,7 @@
   "depends" : [
     "IO::Glob"
   ],
-  "description" : "",
+  "description" : "Scripts para ayudar con la asignatura IV",
   "license" : "Artistic-2.0",
   "name" : "IV scripts",
   "perl" : "6.d",
