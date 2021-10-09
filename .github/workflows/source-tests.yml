@@ -83,9 +83,11 @@ jobs:
                 console.log( objetivo_msg(2) )
                 const non_paginated_issues = await github.issues.listForRepo.endpoint.merge( { owner: user, repo: repo, state: 'all' })
                 issues = await github.paginate( non_paginated_issues )
-                const closed_issues = issues.filter( issue => issue.state === "closed" )
-                if ( !closed_issues.length ) {
-                     core.setFailed( sorry("Para alcanzar un PMV hace falta, al menos, crear y cerrar un issue"))
+                console.log(issues)
+                const hus = issues.filter( issue => 'user-stories' in issue.labels )
+                console.log( hus )
+                if ( !hus.length ) {
+                     core.setFailed( sorry("No hay historias de usuario, o están incorrectamente etiquetadas con «user-stories»"))
                 }
                 closed_issues.forEach( async function( issue ) {
                   if ( ! issue.pull_request ) {
