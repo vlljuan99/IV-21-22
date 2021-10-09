@@ -87,11 +87,10 @@ jobs:
             let closed_issues;
             if ( objetivo >= 2 ) {
                 console.log( objetivo_msg(2) )
-                console.log( "Length ", issues.length, " - ", hus.length )
                 if ( (issues.length - hus.length) == 0 ) {
                   core.setFailed( sorry("No hay issues fuera de las historias de usuario; los issues son imprescindibles para avanzar el código"))
                 } else {
-                  console.log( all_good("Hay " + issues.length - hus.length + " issues no-HU"))
+                  console.log( all_good("Hay ", issues.length - hus.length, " issues no-HU"))
                 }
                 closed_issues = issues.filter( issue => issue.state === "closed" )
                 closed_issues.forEach( async function( issue ) {
