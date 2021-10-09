@@ -1,4 +1,4 @@
-name: "Tests sobre fuentes del repo del estudiante"
+name: "Tests sobre fuentes/API del repo del estudiante"
 on:
   pull_request:
     paths:
