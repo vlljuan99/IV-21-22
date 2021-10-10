@@ -11,7 +11,7 @@ línea con tus iniciales.
 | <!-- Enlace de Esturillo98 --> | | |
 | <!-- Enlace de LuisArostegui --> | | |
 | <!-- Enlace de Paszser --> | | |
-| <!-- Enlace de Mapachana --> | | |
+| https://github.com/JAntonioVR/IV-2021-2022/pull/19 | 0.0.4 | |
 | <!-- Enlace de eantoniocalo18 --> | | |
 | <!-- Enlace de NachoCarher --> | | |
 | <!-- Enlace de C L A --> | | |
@@ -40,7 +40,7 @@ línea con tus iniciales.
 | <!-- Enlace de jesusmarzor --> | | |
 | <!-- Enlace de francisco3207 --> | | |
 | <!-- Enlace de amerigal --> | | |
-| <!-- Enlace de Asmilex --> | | |
+| https://github.com/Balrrach/IV-Proyecto/pull/14 | 0.0.6 | |
 | <!-- Enlace de ismaelmontesinos --> | | |
 | <!-- Enlace de morevi --> | | |
 | https://github.com/Mapachana/Proyecto-IV/pull/8 | 0.0.3 | |
@@ -54,7 +54,7 @@ línea con tus iniciales.
 | <!-- Enlace de juanfran00 --> | | |
 | <!-- Enlace de Albertotc99 --> | | |
 | <!-- Enlace de aleveji --> | | |
-| <!-- Enlace de paula1999 --> | | |
+| https://github.com/vlljuan99/gasolinapp/pull/15 | 0.0.3 | |
 | <!-- Enlace de xCyal --> | | |
 | <!-- Enlace de vlljuan99 --> | | |
 | <!-- Enlace de JAntonioVR --> | | |

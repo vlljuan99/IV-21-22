@@ -18,7 +18,7 @@
 | <!-- Enlace de MarinoFajardo --> | | |
 | [danifm1321](https://github.com/danifm1321/proyectoIV/pull/5) | @amerigal |
 | https://github.com/josevilchez247/Odyssey/pull/8 | @jantonioVR |
-| <!-- Enlace de arguellesm --> | | |
+| https://github.com/arguellesm/faux/pull/5 | slowmybrosh |
 | <!-- Enlace de DFolchA --> | | |
 | https://github.com/JaimeGM96/Practica-IV/pull/5 |  |
 | https://github.com/agr8/Proyecto-IV/pull/11 | @modejota  |
@@ -33,7 +33,7 @@
 | [Antobio17](https://github.com/Antobio17/IV/pull/5) | argelion14 |
 | <!-- Enlace de manujurado1 --> | | |
 | <!-- Enlace de L C G J --> | | |
-| <!-- Enlace de migueorg --> | | |
+| [migueorg](https://github.com/migueorg/SearchCulture/pull/6) | @arguellesm |
 | [jesusmarzor](https://github.com/jesusmarzor/Proyecto-IV/pull/6) | @Balrrach |
 | <!-- Enlace de francisco3207 --> | | |
 | [amerigal](https://github.com/amerigal/proyecto_iv/pull/5)  | @noise-kngdm |

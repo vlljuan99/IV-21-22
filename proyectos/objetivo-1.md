@@ -19,9 +19,9 @@ línea con tus iniciales.
 | https://github.com/alexespana/Proyecto-IV/pull/6 | 0.0.2 | ✓ |
 | <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
-| https://github.com/danifm1321/proyectoIV/pull/5 | 0.0.2 | |
+| https://github.com/danifm1321/proyectoIV/pull/5 | 0.0.2 |✓ |
 | https://github.com/josevilchez247/Odyssey/pull/9 | 0.0.2 |✓ |
-| <!-- Enlace de arguellesm --> | | |
+| https://github.com/arguellesm/faux/pull/5 | 0.0.2 | ✓ |
 | <!-- Enlace de DFolchA --> | | |
 | https://github.com/JaimeGM96/Practica-IV/pull/5 | 0.0.2 | |
 | https://github.com/agr8/Proyecto-IV/pull/11 | 0.0.2 |✓  |
