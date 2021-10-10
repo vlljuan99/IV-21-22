@@ -1,20 +1,16 @@
 # Semana del 11 de octubre
 
-**Importante** Continúa el *hacktoberfest*. Buscad *issues* en GitHub con la
-etiqueta *hacktoberfest* en todo GitHub y referenciarlos al hacer los
+**Importante** Continúa el _hacktoberfest_. Buscad _issues_ en GitHub con la
+etiqueta _hacktoberfest_ en todo GitHub y referenciarlos al hacer los
 pull request y estad atentos a LibreLabGRX para la siguiente convocatoria.
 
 ## Objetivos a cubrir en la sesión
 
-1. Entender el concepto de herramientas de construcción
+1. Entender qué son los tests y su importancia en el contexto de desarrollo ágil.
 
 ## Contenidos
 
 ## Material para la clase
-
-
-## Material adicional
-
 
 ## Siguientes sesiones
 
