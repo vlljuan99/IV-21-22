@@ -27,7 +27,7 @@ línea con tus iniciales.
 | <!-- Enlace de agr8 --> | | |
 | <!-- Enlace de Olasergiolas --> | | |
 | https://github.com/modejota/StoragIV/pull/18 | 0.0.3 | |
-| https://github.com/noise-kngdm/music-matcher/pull/10 | 0.0.3 |  |
+| https://github.com/noise-kngdm/music-matcher/pull/10 | 0.0.3 | ✓ |
 | <!-- Enlace de gomares --> | | |
 | <!-- Enlace de modejota --> | | |
 | <!-- Enlace de argelion14 --> | | |
@@ -37,7 +37,7 @@ línea con tus iniciales.
 | <!-- Enlace de manujurado1 --> | | |
 | <!-- Enlace de L C G J --> | | |
 | <!-- Enlace de migueorg --> | | |
-| https://github.com/joaquingv12/Proyecto-IV/pull/8  | 0.0.3 | ✓ |
+| https://github.com/joaquingv12/Proyecto-IV/pull/8  | 0.0.3 |  |
 | <!-- Enlace de francisco3207 --> | | |
 | <!-- Enlace de amerigal --> | | |
 | https://github.com/Balrrach/IV-Proyecto/pull/14 | 0.0.6 | |
