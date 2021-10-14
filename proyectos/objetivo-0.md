@@ -45,7 +45,7 @@ línea con tus iniciales.
 | <!-- Enlace de morevi --> | | |
 | https://github.com/Pablont98/IV/pull/2 | 0.0.1 | ✓ |
 | https://github.com/Slowmybrosh/PracticaIV/pull/1 | 0.0.1 |✓ |
-| https://github.com/sorozcov/proyecto-iv-ugr/pull/1 | 0.0.2 | |
+| https://github.com/sorozcov/proyecto-iv-ugr/pull/1 | 0.0.2 |✓ |
 | <https://github.com/jlortega00/IV/pull/2  | 0.0.3| |
 | https://github.com/Xileon310/IV-Project/pull/2 | 0.0.2 | ✓ |
 | https://github.com/Parka015/IV-Proyecto/pull/1 | 0.0.1 |✓ |
