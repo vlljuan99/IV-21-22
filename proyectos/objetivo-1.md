@@ -10,7 +10,7 @@ línea con tus iniciales.
 | [noise-kngdm](https://github.com/noise-kngdm/music-matcher/pull/6) | 0.0.2 |✓ |
 | <!-- Enlace de Esturillo98 --> | | |
 | [LuisArostegui](https://github.com/LuisArostegui/RealFoodRecipeCreator/pull/6) | 0.0.2 | ✓|
-| https://github.com/Paszser/IV/pull/5 | 0.0.2 | ✓ |
+| https://github.com/Paszser/IV/puliv-statsl/5 | 0.0.2 | ✓ |
 | https://github.com/Mapachana/Proyecto-IV/pull/5 | 0.0.2 | ✓ |
 | <!-- Enlace de eantoniocalo18 --> | | |
 | [NachoCarher](https://github.com/NachoCarher/MyHams/pull/3)| 0.0.2 | |

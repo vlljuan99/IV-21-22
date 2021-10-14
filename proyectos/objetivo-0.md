@@ -14,14 +14,15 @@ línea con tus iniciales.
 | https://github.com/Mapachana/Proyecto-IV/pull/1 | 0.0.1 | ✓ |
 | https://github.com/eantoniocalo18/IV/pull/3 | 0.0.1 | ✓  |
 | https://github.com/NachoCarher/BeAShark/pull/1 | 0.0.1 | ✓ |
+| <!-- Enlace de C L A --> | | |
 | https://github.com/Balrrach/IV-Proyecto/pull/1º | 0.0.1 |✓ |
 | https://github.com/alexespana/Proyecto-IV/pull/1 | 0.0.1 | ✓ |
-| <!-- Enlace de E M J --> | | |
+| <!-- Enlace de Javierexmar --> | | |
 | https://github.com/MarinoFajardo/AhorraLuz/pull/1 | 0.0.1 | ✓ |
 | https://github.com/danifm1321/proyectoIV/pull/1 | 0.0.1 | ✓ |
 | https://github.com/josevilchez247/Odyssey/pull/5 | 0.0.1 | ✓ |
 | https://github.com/arguellesm/faux/pull/1 | 0.0.1 | ✓ |
-| <!-- Enlace de F A D --> | | |
+| https://github.com/DFolchA/StatsOfLegends/pull/1 | 0.0.1 | ✓ |
 | https://github.com/JaimeGM96/Practica-IV/pull/1 | 0.0.1 | ✓ |
 | https://github.com/agr8/Proyecto-IV/pull/1 | 0.0.1 | ✓ |
 | https://github.com/Olasergiolas/Proyecto-IV/pull/1 | 0.0.1 | ✓ |
@@ -33,7 +34,6 @@ línea con tus iniciales.
 | https://github.com/juanmihdz/Proyecto-IV/pull/1 | | |
 | https://github.com/venrra/NombreGenericoAPI/pull/1  | v0.0.0 | ✓ |
 | https://github.com/Antobio17/IV/pull/1 | 0.0.1 | ✓ |
-| <!-- Enlace de J T M --> | | |
 | https://github.com/manujurado1/smartfootballapp/pull/1 | 0.0.1 | ✓ |
 | https://github.com/migueorg/tmp-Proyecto-IV/pull/1 | 0.0.1 | ✓ |
 | https://github.com/jesusmarzor/Proyecto-IV/pull/2 | 0.0.2 | ✓  |
@@ -41,15 +41,14 @@ línea con tus iniciales.
 | https://github.com/amerigal/proyecto_iv/pull/1 | 0.0.2 |✓ |
 | https://github.com/Asmilex/IV/pull/1 | 0.0.2 | ✓ |
 | https://github.com/ismaelmontesinos/PracticaIV/pull/13 |0.0.2 |✓ |
-| <!-- Enlace de M H A --> | | |
 | <!-- Enlace de morevi --> | | |
 | https://github.com/Pablont98/IV/pull/2 | 0.0.1 | ✓ |
 | https://github.com/Slowmybrosh/PracticaIV/pull/1 | 0.0.1 |✓ |
 | https://github.com/sorozcov/proyecto-iv-ugr/pull/1 | 0.0.2 |✓ |
-| <https://github.com/jlortega00/IV/pull/2  | 0.0.3| |
+| https://github.com/jlortega00/IV/pull/2  | 0.0.3| |
 | https://github.com/Xileon310/IV-Project/pull/2 | 0.0.2 | ✓ |
 | https://github.com/Parka015/IV-Proyecto/pull/1 | 0.0.1 |✓ |
-| <!-- Enlace de S R E --> | | |
+| https://github.com/edusegrich/OpoTests/pull/1 | 0.0.1 | ✓ |
 | https://github.com/LuisSS20/StockAndPrices/pull/1 | 0.0.1 | ✓ |
 |https://github.com/juanfran00/IV/pull/1 |0.0.2   | |
 | https://github.com/albertotc99/MercadoClubesPro/pull/1 | 0.0.1 | ✓ |
@@ -59,5 +58,3 @@ línea con tus iniciales.
 | https://github.com/vlljuan99/gasolinapp/pull/5 | 0.0.1 | ✓ |
 | https://github.com/JAntonioVR/IV-2021-2022/pull/1 | 0.0.1 |✓ |
 | https://github.com/pablozafra97/proyecto-IV/pull/1 | 0.0.1 | ✓ |
-| https://github.com/DFolchA/StatsOfLegends/pull/1 | 0.0.1 | ✓ |
-| https://github.com/edusegrich/OpoTests/pull/1 | 0.0.1 | ✓ |
