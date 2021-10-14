@@ -24,13 +24,15 @@ pull request y estad atentos a LibreLabGRX para la siguiente convocatoria.
 
 ## Objetivos a cubrir en la sesión
 
-1. Repaso objetivos hasta ahora
+1- Recordad añadir `hacktoberfest` como topic de vuestro repositorio
+2. Repaso objetivos hasta ahora
    * YAML es un lenguaje de serialización, que representa estructuras de datos
      de forma compacta.
    * La importancia de la lógica de negocio.
    * Cómo escribir y entender una historia de usuario y cómo sacar issues de
      ellas.
-2. Entender qué son los tests y su importancia en el contexto de desarrollo
+   * Entender el concepto de producto *mínimamente* viable.
+3. Entender qué son los tests y su importancia en el contexto de desarrollo
    ágil.
    * Estándares de código.
    * Olores de código.
