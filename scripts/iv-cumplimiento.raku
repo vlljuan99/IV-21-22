@@ -8,11 +8,13 @@ my @usuarios = "proyectos/usuarios.md".IO.slurp.lines.grep( /"<!--"/ )
 my %latest;
 my @cumplimiento=[.05,.075, .1, .075, .1];
 for glob( "proyectos/objetivo-*.md" ).sort: { $^a cmp $^b} -> $f {
-    say $f;
     my @contenido = $f.IO.lines.grep( /"|"/);
     for @usuarios.kv -> $index, $usuario {
         %latest{$usuario}++ if @contenido[$index+2] ~~ /"✓"/;
     }
 }
 
-say %latest;
+for %latest.sort( { $^b.value <=> $^a.value } ) -> $p {
+    my ($u,$v) = $p.kv;
+    say $u, " → ", [+]  @cumplimiento[ ^$v];
+}
