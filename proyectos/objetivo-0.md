@@ -15,7 +15,7 @@ línea con tus iniciales.
 | https://github.com/eantoniocalo18/IV/pull/3 | 0.0.1 | ✓  |
 | https://github.com/NachoCarher/BeAShark/pull/1 | 0.0.1 | ✓ |
 | <!-- Enlace de C L A --> | | |
-| https://github.com/Balrrach/IV-Proyecto/pull/1º | 0.0.1 |✓ |
+| https://github.com/Balrrach/IV-Proyecto/pull/1 | 0.0.1 |✓ |
 | https://github.com/alexespana/Proyecto-IV/pull/1 | 0.0.1 | ✓ |
 | <!-- Enlace de Javierexmar --> | | |
 | https://github.com/MarinoFajardo/AhorraLuz/pull/1 | 0.0.1 | ✓ |
