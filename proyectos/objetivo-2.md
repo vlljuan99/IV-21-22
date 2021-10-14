@@ -11,12 +11,12 @@ línea con tus iniciales.
 | <!-- Enlace de Esturillo98 --> | | |
 | <!-- Enlace de LuisArostegui --> | | |
 | https://github.com/lentes4k/Proyecto-IV/pull/15 | 0.0.3 | |
-| https://github.com/JAntonioVR/IV-2021-2022/pull/19 | 0.0.4 | |
+| https://github.com/JAntonioVR/IV-2021-2022/pull/19 | 0.0.4 | ✓ |
 | <!-- Enlace de eantoniocalo18 --> | | |
 | <!-- Enlace de NachoCarher --> | | |
 | <!-- Enlace de C L A --> | | |
 | <!-- Enlace de Balrrach --> | | |
-| https://github.com/Paszser/ComparerApp/pull/11 | 0.0.4 | | 
+| https://github.com/Paszser/ComparerApp/pull/11 | 0.0.4 | |
 | <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
 | <!-- Enlace de danifm1321 --> | | |
@@ -43,7 +43,7 @@ línea con tus iniciales.
 | https://github.com/Balrrach/IV-Proyecto/pull/14 | 0.0.6 | |
 | <!-- Enlace de ismaelmontesinos --> | | |
 | <!-- Enlace de morevi --> | | |
-| https://github.com/Mapachana/Proyecto-IV/pull/8 | 0.0.3 | |
+| https://github.com/Mapachana/Proyecto-IV/pull/8 | 0.0.3 | ✓ |
 | <!-- Enlace de Slowmybrosh --> | | |
 | <!-- Enlace de sorozcov --> | | |
 | <!-- Enlace de jlortega00 --> | | |
