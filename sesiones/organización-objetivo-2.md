@@ -20,7 +20,7 @@
 | https://github.com/josevilchez247/Odyssey/pull/8 | @jantonioVR |
 | https://github.com/arguellesm/faux/pull/5 | slowmybrosh |
 | <!-- Enlace de DFolchA --> | | |
-| https://github.com/JaimeGM96/Practica-IV/pull/5 |  |
+| https://github.com/JaimeGM96/Practica-IV/pull/5 | @danifm1321 |
 | https://github.com/agr8/Proyecto-IV/pull/11 | @modejota  |
 | https://github.com/Olasergiolas/Proyecto-IV/pull/5 | @agr8 |
 | https://github.com/lentes4k/Proyecto-IV/pull/12 | @Paszser |
