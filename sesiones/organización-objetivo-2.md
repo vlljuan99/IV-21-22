@@ -50,7 +50,7 @@
 | [LuisSS20](https://github.com/LuisSS20/DontWait/pull/5) | ismaelmontesinos |
 | <!-- Enlace de juanfran00 --> | | |
 | <!-- Enlace de Albertotc99 --> | | |
-| https://github.com/aleveji/BuscaRecetas/pull/4 |  |
+| https://github.com/aleveji/BuscaRecetas/pull/4 | @luisss20 |
 | [paula1999](https://github.com/paula1999/IV/pull/5) | @Olasergiolas |
 | <!-- Enlace de xCyal --> | | |
 | [vlljuan99](https://github.com/vlljuan99/gasolinapp/pull/11) | @paula1999 |
