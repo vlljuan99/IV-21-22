@@ -46,7 +46,8 @@ pull request y estad atentos a LibreLabGRX para la siguiente convocatoria.
 
 ## Material para la clase
 
-* Presentación sobre tests.
+* [Presentación sobre tests](https://jj.github.io/IV/preso/tests.html).
+* [Objetivo 4](https://jj.github.io/IV/documentos/proyecto/4.Tests).
 
 ## Siguientes sesiones
 
