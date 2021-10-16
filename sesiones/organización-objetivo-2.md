@@ -10,7 +10,7 @@
 | https://github.com/Paszser/IV/pull/5 | @alexespana |
 | https://github.com/Mapachana/Proyecto-IV/pull/5 | @Pablont98 |
 | <!-- Enlace de eantoniocalo18 --> | | |
-| <!-- Enlace de NachoCarher --> | | |
+| [NachoCarher](https://github.com/NachoCarher/MyHams/pull/3)|  |
 | <!-- Enlace de C L A --> | | |
 | [Balrrach](https://github.com/Balrrach/IV-Proyecto/pull/7) | @Asmilex |
 | https://github.com/alexespana/Proyecto-IV/pull/6 | @Antobio17 |
@@ -46,10 +46,10 @@
 | <!-- Enlace de jlortega00 --> | | |
 | [Xileon310](https://github.com/Xileon310/IV-Project/pull/12) | |
 | [Parka015](https://github.com/Parka015/IV-Proyecto/pull/6)| | |
-| <!-- Enlace de edusegrich --> | | |
+| [edusegrich](https://github.com/edusegrich/OpoTests/pull/10) |  |
 | [LuisSS20](https://github.com/LuisSS20/DontWait/pull/5) | ismaelmontesinos |
 | <!-- Enlace de juanfran00 --> | | |
-| <!-- Enlace de Albertotc99 --> | | |
+| https://github.com/albertotc99/MercadoClubesPro/pull/5 | |
 | https://github.com/aleveji/BuscaRecetas/pull/4 | @luisss20 |
 | [paula1999](https://github.com/paula1999/IV/pull/5) | @Olasergiolas |
 | <!-- Enlace de xCyal --> | | |

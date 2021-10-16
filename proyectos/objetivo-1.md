@@ -23,7 +23,7 @@ línea con tus iniciales.
 | https://github.com/josevilchez247/Odyssey/pull/9 | 0.0.2 |✓ |
 | https://github.com/arguellesm/faux/pull/5 | 0.0.2 | ✓ |
 | <!-- Enlace de DFolchA --> | | |
-| https://github.com/JaimeGM96/Practica-IV/pull/5 | 0.0.2 | |
+| https://github.com/JaimeGM96/Practica-IV/pull/5 | 0.0.2 | ✓ |
 | https://github.com/agr8/Proyecto-IV/pull/11 | 0.0.2 |✓  |
 | https://github.com/Olasergiolas/Proyecto-IV/pull/5 | 0.0.2 |✓ |
 | https://github.com/lentes4k/Proyecto-IV/pull/12 | 0.0.2 |✓ |
@@ -36,7 +36,7 @@ línea con tus iniciales.
 | [Antobio17](https://github.com/Antobio17/IV/pull/5) | 0.0.2 | ✓ |
 | <!-- Enlace de manujurado1 --> | | |
 | <!-- Enlace de L C G J --> | | |
-| [migueorg](https://github.com/migueorg/SearchCulture/pull/6) | 0.0.2 | ✓ | 
+| [migueorg](https://github.com/migueorg/SearchCulture/pull/6) | 0.0.2 | ✓ |
 | [jesusmarzor](https://github.com/jesusmarzor/Proyecto-IV/pull/6) | 0.0.3 | ✓ |
 | <!-- Enlace de francisco3207 --> | | |
 | [amerigal](https://github.com/amerigal/proyecto_iv/pull/5) | 0.0.2 | ✓ |
