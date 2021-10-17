@@ -10,12 +10,12 @@ línea con tus iniciales.
 | <!-- Enlace de noise-kngdm --> | | |
 | <!-- Enlace de Esturillo98 --> | | |
 | <!-- Enlace de LuisArostegui --> | | |
-| https://github.com/lentes4k/Proyecto-IV/pull/15 | 0.0.3 | |
+| https://github.com/lentes4k/Proyecto-IV/pull/15 | 0.0.3 |✓ |
 | https://github.com/JAntonioVR/IV-2021-2022/pull/19 | 0.0.4 | ✓ |
 | <!-- Enlace de eantoniocalo18 --> | | |
 | <!-- Enlace de NachoCarher --> | | |
 | <!-- Enlace de C L A --> | | |
-| https://github.com/jesusmarzor/Peluqueria/pull/15 | 0.0.6 | | 
+| https://github.com/jesusmarzor/Peluqueria/pull/15 | 0.0.6 | |
 | https://github.com/Paszser/ComparerApp/pull/11 | 0.0.4 | ✓ |
 | <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
