@@ -3,7 +3,7 @@
 
 ## Objetivos a cubrir en la sesión
 
-1. Entender el concepto de API REST
+1. Completar el despliegue con la funcionalidad correcta
 
 ## Contenidos
 
