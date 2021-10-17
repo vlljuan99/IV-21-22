@@ -15,8 +15,11 @@ pull request y estad atentos a LibreLabGRX para la siguiente convocatoria.
 1. Entender los problemas en el objetivo 2:
    * Distinguir objeto valor de entidad, y por qué en general en este objetivo
      era suficiente con uno (1) objeto valor.
-   * Entender que lo importante es identificar qué objeto valor es el más
+   * Entender que lo esencial es identificar qué objeto valor es el más
      importante, y que eso es lo que tiene que estar en el hito 0.
+     * En parte, esto es labor del *product manager*, que tiene que crear un
+       milestone que incluya como PMV el diseño sin lógica de negocio de ese
+       objeto valor.
    * Entender también que los objetos valor no tienen más lógica de negocio que
      la necesaria para la validación.
    * Entender el flujo HU → hito → issue → mensaje de commit → código y cómo es
