@@ -48,7 +48,7 @@ línea con tus iniciales.
 | <!-- Enlace de sorozcov --> | | |
 | <!-- Enlace de jlortega00 --> | | |
 | [Xileon310](https://github.com/Xileon310/IV-Project/pull/12) | 0.0.4 | |
-| [Parka015](https://github.com/Parka015/IV-Proyecto/pull/6) | 0.0.2 | |
+| [Parka015](https://github.com/Parka015/IV-Proyecto/pull/6) | 0.0.2 | ✓ |
 | [edusegrich](https://github.com/edusegrich/OpoTests/pull/10) | 0.0.2 | |
 | [LuisSS20](https://github.com/LuisSS20/DontWait/pull/5) | 0.0.2 | ✓ |
 | <!-- Enlace de juanfran00 --> | | |
