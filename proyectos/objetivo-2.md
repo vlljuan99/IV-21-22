@@ -9,7 +9,7 @@ línea con tus iniciales.
 |--------------------------------------------|---------|-----------|
 | [noise-kngdm](https://github.com/amerigal/proyecto_iv/pull/8) | 0.0.3 | |
 | <!-- Enlace de Esturillo98 --> | | |
-| <!-- Enlace de LuisArostegui --> | | |
+| https://github.com/argelion14/Sport-car/pull/14 | | |
 | https://github.com/lentes4k/Proyecto-IV/pull/15 | 0.0.3 |✓ |
 | https://github.com/JAntonioVR/IV-2021-2022/pull/19 | 0.0.4 | ✓ |
 | <!-- Enlace de eantoniocalo18 --> | | |
