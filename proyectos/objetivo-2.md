@@ -15,7 +15,7 @@ línea con tus iniciales.
 | <!-- Enlace de eantoniocalo18 --> | | |
 | <!-- Enlace de NachoCarher --> | | |
 | <!-- Enlace de C L A --> | | |
-| https://github.com/jesusmarzor/Peluqueria/pull/15 | 0.0.6 | |
+| https://github.com/jesusmarzor/Peluqueria/pull/15 | 0.0.6 | ✓ |
 | https://github.com/Paszser/ComparerApp/pull/11 | 0.0.4 | ✓ |
 | <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
@@ -54,7 +54,7 @@ línea con tus iniciales.
 | <!-- Enlace de juanfran00 --> | | |
 | <!-- Enlace de Albertotc99 --> | | |
 | <!-- Enlace de aleveji --> | | |
-| https://github.com/vlljuan99/gasolinapp/pull/15 | 0.0.3 | |
+| https://github.com/vlljuan99/gasolinapp/pull/15 | 0.0.3 | ✓ |
 | <!-- Enlace de xCyal --> | | |
 | <!-- Enlace de vlljuan99 --> | | |
 | https://github.com/josevilchez247/Odyssey/pull/18 | 0.0.4 | ✓ |
