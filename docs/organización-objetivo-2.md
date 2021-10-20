@@ -10,7 +10,7 @@
 | https://github.com/Paszser/IV/pull/5 | @alexespana |
 | https://github.com/Mapachana/Proyecto-IV/pull/5 | @Pablont98 |
 | <!-- Enlace de eantoniocalo18 --> | | |
-| [NachoCarher](https://github.com/NachoCarher/MyHams/pull/3)|  |
+| [NachoCarher](https://github.com/NachoCarher/MyHams/pull/3)| Parka015  |
 | <!-- Enlace de C L A --> | | |
 | [Balrrach](https://github.com/Balrrach/IV-Proyecto/pull/7) | @Asmilex |
 | https://github.com/alexespana/Proyecto-IV/pull/6 | @Antobio17 |
@@ -37,7 +37,7 @@
 | [jesusmarzor](https://github.com/jesusmarzor/Proyecto-IV/pull/6) | @Balrrach |
 | <!-- Enlace de francisco3207 --> | | |
 | [amerigal](https://github.com/amerigal/proyecto_iv/pull/5)  | @noise-kngdm |
-| [Asmilex](https://github.com/Asmilex/IV/pull/6) | Parka015 |
+| [Asmilex](https://github.com/Asmilex/IV/pull/6) |  |
 | https://github.com/ismaelmontesinos/PracticaIV/pull/3 | |
 | <!-- Enlace de morevi --> | | |
 | https://github.com/Pablont98/IV/pull/8 | @vlljuan99 |
