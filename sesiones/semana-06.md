@@ -7,22 +7,7 @@ pull request y estad atentos a LibreLabGRX para la siguiente convocatoria.
 ## Estado de los objetivos
 
 ```
- 0 🧮:  5%🚧 84%✅  9%❌ ⇒ 
-     🚧 🚧 🚧
-     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
-     ❌ ❌ ❌ ❌ ❌
- 1 🧮: 11%🚧 55%✅ 32%❌ ⇒ 
-     🚧 🚧 🚧 🚧 🚧 🚧
-     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
-     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
- 2 🧮:  9%🚧 25%✅ 65%❌ ⇒ 
-     🚧 🚧 🚧 🚧 🚧
-     ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅
-     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
- 3 🧮:  3%🚧  1%✅ 94%❌ ⇒ 
-     🚧 🚧
-     ✅
-     ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌ ❌
+
 ```
 
 ## Objetivos a cubrir en la sesión
@@ -56,8 +41,8 @@ pull request y estad atentos a LibreLabGRX para la siguiente convocatoria.
 
 ## Material para la clase
 
-
-## Material adicional
+* Presentación [sobre tests](https://jj.github.io/IV/preso/tests.html).
+* [Cuarto objetivo](https://jj.github.io/IV/documentos/proyecto/4.Tests).
 
 
 ## Siguientes sesiones
