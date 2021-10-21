@@ -20,7 +20,7 @@ línea con tus iniciales.
 | <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
 | https://github.com/JaimeGM96/Practica-IV/pull/11 | 0.0.4 | |
-| <!-- Enlace de josevilchez247 --> | | |
+| https://github.com/venrra/apiTrainer/pull/11 | 0.0.3 | |
 | <!-- Enlace de arguellesm --> | | |
 | <!-- Enlace de DFolchA --> | | |
 | <!-- Enlace de JaimeGM96 --> | | |
