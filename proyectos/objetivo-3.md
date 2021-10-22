@@ -23,20 +23,20 @@
 | <!-- Enlace de agr8 --> | | |
 | <!-- Enlace de Olasergiolas --> | | |
 | https://github.com/lentes4k/cAppjon/pull/22 | 0.0.6 | |
-| https://github.com/joaquingv12/Proyecto-IV/pull/9 | 0.0.5 | |
+| https://github.com/joaquingv12/Proyecto-IV/pull/9 | 0.0.5 |✓ |
 | <!-- Enlace de gomares --> | | |
 | <!-- Enlace de modejota --> | | |
 | <!-- Enlace de argelion14 --> | | |
 | <!-- Enlace de juanmihdz --> | | |
 | <!-- Enlace de venrra --> | | |
-| https://github.com/Antobio17/IV/pull/12 | 0.0.7 | |
+| https://github.com/Antobio17/IV/pull/12 | 0.0.7 | ✓ |
 | <!-- Enlace de manujurado1 --> | | |
 | <!-- Enlace de L C G J --> | | |
 | <!-- Enlace de migueorg --> | | |
 | <!-- Enlace de jesusmarzor --> | | |
 | <!-- Enlace de francisco3207 --> | | |
 | <!-- Enlace de amerigal --> | | |
-| https://github.com/Asmilex/IV/pull/8 | 0.0.10 | |
+| https://github.com/Asmilex/IV/pull/8 | 0.0.10 |✓ |
 | <!-- Enlace de ismaelmontesinos --> | | |
 | <!-- Enlace de morevi --> | | |
 | https://github.com/Pablont98/IV/pull/14 | 0.0.5 | |
@@ -53,5 +53,5 @@
 | https://github.com/paula1999/Tune-in/pull/14 | 0.0.6 | |
 | <!-- Enlace de xCyal --> | | |
 | <!-- Enlace de vlljuan99 --> | | |
-| https://github.com/JAntonioVR/IV-2021-2022/pull/22 | 0.0.6 | |
+| https://github.com/JAntonioVR/IV-2021-2022/pull/22 | 0.0.6 | ✓ |
 | <!-- Enlace de pablozafra97 --> | | |
