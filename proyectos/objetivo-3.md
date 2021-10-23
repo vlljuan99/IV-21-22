@@ -12,7 +12,7 @@
 | <!-- Enlace de NachoCarher --> | | |
 | <!-- Enlace de C L A --> | | |
 | <!-- Enlace de Balrrach --> | | |
-| https://github.com/alexespana/BarPower/pull/20 | 0.0.5 | |
+| https://github.com/alexespana/BarPower/pull/20 | 0.0.5 |✓ |
 | <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
 | <!-- Enlace de danifm1321 --> | | |
@@ -22,10 +22,10 @@
 | <!-- Enlace de JaimeGM96 --> | | |
 | <!-- Enlace de agr8 --> | | |
 | <!-- Enlace de Olasergiolas --> | | |
-| https://github.com/lentes4k/cAppjon/pull/22 | 0.0.6 | |
+| https://github.com/lentes4k/cAppjon/pull/22 | 0.0.6 |✓ |
 | https://github.com/joaquingv12/Proyecto-IV/pull/9 | 0.0.5 |✓ |
 | <!-- Enlace de gomares --> | | |
-| https://github.com/modejota/StoragIV/pull/19 | 0.0.7 | |
+| https://github.com/modejota/StoragIV/pull/19 | 0.0.7 | ✓ |
 | <!-- Enlace de argelion14 --> | | |
 | <!-- Enlace de juanmihdz --> | | |
 | <!-- Enlace de venrra --> | | |
