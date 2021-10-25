@@ -3,7 +3,7 @@
 
 | URL                                        | Versión | Alcanzado |
 |--------------------------------------------|---------|-----------|
-| [noise-kngdm](https://github.com/noise-kngdm/music-matcher/pull/14) | 0.0.5 | |
+| [noise-kngdm](https://github.com/noise-kngdm/music-matcher/pull/14) | 0.0.5 | ✓ |
 | <!-- Enlace de Esturillo98 --> | | |
 | <!-- Enlace de LuisArostegui --> | | |
 | https://github.com/Paszser/ComparerApp/pull/20 | 0.0.5 | |
@@ -21,7 +21,7 @@
 | <!-- Enlace de DFolchA --> | | |
 | <!-- Enlace de JaimeGM96 --> | | |
 | <!-- Enlace de agr8 --> | | |
-| https://github.com/Olasergiolas/Go-AutoEQ/pull/19 | 0.0.3 | |
+| https://github.com/Olasergiolas/Go-AutoEQ/pull/19 | 0.0.3 | ✓ |
 | https://github.com/lentes4k/cAppjon/pull/22 | 0.0.6 |✓ |
 | https://github.com/joaquingv12/Proyecto-IV/pull/9 | 0.0.5 |✓ |
 | <!-- Enlace de gomares --> | | |
