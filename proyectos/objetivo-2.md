@@ -50,7 +50,7 @@ línea con tus iniciales.
 | <!-- Enlace de Xileon310 --> | | |
 | <!-- Enlace de Parka015 --> | | |
 | <!-- Enlace de edusegrich --> | | |
-| [LuisSS20](https://github.com/aleveji/BuscaRecetas/pull/9) | 0.0.2 | |
+| [LuisSS20](https://github.com/aleveji/BuscaRecetas/pull/9) | 0.0.2 | ✓ |
 | <!-- Enlace de juanfran00 --> | | |
 | <!-- Enlace de Albertotc99 --> | | |
 | <!-- Enlace de aleveji --> | | |
