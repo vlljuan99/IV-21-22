@@ -45,7 +45,11 @@ pull request y estad atentos a LibreLabGRX para la siguiente convocatoria.
 ## Material para la clase
 
 * [Introducción a Docker](http://jj.github.io/IV/documentos/temas/Contenedores)
-* [Objetivo 5: Contenedores](http://jj.github.io/IV/documentos/proyecto/5.Docker)
+* [Objetivo 5:
+  Contenedores](http://jj.github.io/IV/documentos/proyecto/5.Docker)
+* Ejemplos de contenedores:
+  [Raku](https://hub.docker.com/r/jjmerelo/alpine-raku),
+  [iv-test](https://hub.docker.com/r/jjmerelo/iv-test).
 
 ## Siguientes sesiones
 
