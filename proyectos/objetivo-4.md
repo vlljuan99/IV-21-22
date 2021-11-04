@@ -22,7 +22,7 @@
 | <!-- Enlace de JaimeGM96 --> | | |
 | <!-- Enlace de agr8 --> | | |
 | <!-- Enlace de Olasergiolas --> | | |
-| https://github.com/lentes4k/cAppjon/pull/25 | 0.0.11 | |
+| https://github.com/lentes4k/cAppjon/pull/25 | 0.0.11 | ✓ |
 | https://github.com/joaquingv12/Proyecto-IV/pull/23 | 0.0.7 | |
 | <!-- Enlace de gomares --> | | |
 | <!-- Enlace de modejota --> | | |
@@ -36,7 +36,7 @@
 | <!-- Enlace de jesusmarzor --> | | |
 | <!-- Enlace de francisco3207 --> | | |
 | <!-- Enlace de amerigal --> | | |
-| https://github.com/Asmilex/IV/pull/18 | 0.1.2 | |
+| https://github.com/Asmilex/IV/pull/18 | 0.1.2 | ✓ |
 | <!-- Enlace de ismaelmontesinos --> | | |
 | <!-- Enlace de morevi --> | | |
 | <!-- Enlace de Pablont98 --> | | |
