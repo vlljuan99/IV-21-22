@@ -39,7 +39,7 @@
 | https://github.com/Asmilex/IV/pull/18 | 0.1.2 | ✓ |
 | <!-- Enlace de ismaelmontesinos --> | | |
 | <!-- Enlace de morevi --> | | |
-| <!-- Enlace de Pablont98 --> | | |
+| https://github.com/Pablont98/IV/pull/16 | 0.0.6 | |
 | <!-- Enlace de Slowmybrosh --> | | |
 | <!-- Enlace de sorozcov --> | | |
 | <!-- Enlace de jlortega00 --> | | |
