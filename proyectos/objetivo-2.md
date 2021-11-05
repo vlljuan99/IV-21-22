@@ -48,7 +48,7 @@ línea con tus iniciales.
 | <!-- Enlace de sorozcov --> | | |
 | <!-- Enlace de jlortega00 --> | | |
 | [Xileon310](https://github.com/gomares/Proyecto_IV/pull/9) | 0.0.5 | |
-| <!-- Enlace de Parka015 --> | | |
+| [Parka015](https://github.com/NachoCarher/MyHams/pull/17) | 0.0.3 | |
 | <!-- Enlace de edusegrich --> | | |
 | [LuisSS20](https://github.com/aleveji/BuscaRecetas/pull/9) | 0.0.2 | ✓ |
 | <!-- Enlace de juanfran00 --> | | |
