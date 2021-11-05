@@ -12,7 +12,7 @@
 | <!-- Enlace de NachoCarher --> | | |
 | <!-- Enlace de C L A --> | | |
 | <!-- Enlace de Balrrach --> | | |
-| https://github.com/alexespana/BarPower/pull/24 | 0.0.6 |  |
+| https://github.com/alexespana/BarPower/pull/24 | 0.0.6 | ✓ |
 | <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
 | <!-- Enlace de danifm1321 --> | | |
