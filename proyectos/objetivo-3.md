@@ -11,11 +11,11 @@
 | <!-- Enlace de eantoniocalo18 --> | | |
 | <!-- Enlace de NachoCarher --> | | |
 | <!-- Enlace de C L A --> | | |
-| https://github.com/Balrrach/IV-Proyecto/pull/16 | 0.0.9 | |
+| https://github.com/Balrrach/IV-Proyecto/pull/16 | 0.0.9 | ✓ |
 | https://github.com/alexespana/BarPower/pull/20 | 0.0.5 |✓ |
 | <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
-| https://github.com/danifm1321/proyectoIV/pull/10  | 0.0.4 | |
+| https://github.com/danifm1321/proyectoIV/pull/10  | 0.0.4 |✓  |
 | <!-- Enlace de josevilchez247 --> | | |
 | <!-- Enlace de arguellesm --> | | |
 | <!-- Enlace de DFolchA --> | | |

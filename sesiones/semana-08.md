@@ -38,6 +38,12 @@
 
 ## Material para la clase
 
+* Errores objetivo 3:
+  * `pylint` no comprueba sintaxis, sino que es un linter.
+  * No distinguir entre dependencias "de producción" y dependencias "de
+    desarrollo". Las dependencias de producción son las que se van a desplegar,
+    los gestores de tareas serían dependencias del desarrollo.
+
 * Errores objetivo 4
   * Los tests deben ser tests siguiendo las mejores prácticas del lenguaje
     correspondiente, no scripts que ejecuten cosas y no peten. Habrá que mirar
