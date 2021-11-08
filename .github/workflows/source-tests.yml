@@ -45,7 +45,6 @@ jobs:
         if: ${{env.objetivo >= 5 }}
         env:
           CONTAINER: ${{ env.docker_user }}/${{ env.repo }}
-          TODOS: ${{join(steps.source-tests.outputs.*, '\n')}}
         run: docker run -t -v `pwd`:/test ${CONTAINER,,}
   ops-using-API:
     runs-on: ubuntu-latest
