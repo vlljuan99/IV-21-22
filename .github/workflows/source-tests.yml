@@ -44,8 +44,8 @@ jobs:
       - name: Testea contenedor
         if: ${{env.objetivo >= 5 }}
         env:
-          docker_user: ${{steps.source-tests.docker-user}}
-        run: docker run -t -v `pwd`:/test ${docker_user}/${repo}
+          CONTAINER: ${{steps.source-tests.docker-user}}/${{env.repo}}
+        run: docker run -t -v `pwd`:/test ${CONTAINER,,}
   ops-using-API:
     runs-on: ubuntu-latest
     needs: ops-on-pr
