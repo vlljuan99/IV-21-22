@@ -32,8 +32,8 @@ al día en los primeros objetivos para poder llegar a tiempo a la misma.
 ## Objetivos a cubrir en la sesión
 
 1. Entender el concepto de HU/issue/mensaje de commit.
-1. Entender el concepto de servicios en la nube.
 2. Entender el concepto de observabilidad.
+3. Entender el concepto de servicios en la nube tales como configuración remota.
 
 ## Contenidos
 
