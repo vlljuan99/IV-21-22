@@ -1,5 +1,9 @@
 # Semana del 8 de noviembre
 
+Dado que estamos llegando más o menos al ecuador de la asignatura, y que la
+convocatoria extraordinaria es igual que la ordinaria, sería conveniente ponerse
+al día en los primeros objetivos para poder llegar a tiempo a la misma.
+
 ## Estado de los objetivos
 
 ```
