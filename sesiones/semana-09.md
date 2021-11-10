@@ -4,6 +4,9 @@ Dado que estamos llegando más o menos al ecuador de la asignatura, y que la
 convocatoria extraordinaria es igual que la ordinaria, sería conveniente ponerse
 al día en los primeros objetivos para poder llegar a tiempo a la misma.
 
+Vamos a usar esta semana sin nuevos contenidos para ponernos al día y avanzar en
+los objetivos.
+
 ## Estado de los objetivos
 
 ```
