@@ -44,6 +44,9 @@ hecho de que hay que creerse que los HUs, issues, hitos y todo eso sirven
 realmente para poder manejar fácilmente el desarrollo de una aplicación compleja
 por parte de un equipo de desarrollo.
 
+Adicionalmente:
+* Objetivo 4: hay que evidenciar la elección de un *test runner* y de una
+  biblioteca de aserciones, y decir qué estilo se ha elegido y por qué.
 
 ## Siguientes sesiones
 
