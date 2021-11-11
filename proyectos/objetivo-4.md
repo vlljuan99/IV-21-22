@@ -21,7 +21,7 @@
 | <!-- Enlace de DFolchA --> | | |
 | <!-- Enlace de JaimeGM96 --> | | |
 | <!-- Enlace de agr8 --> | | |
-| https://github.com/Olasergiolas/Go-AutoEQ/pull/33 | 0.0.4 | |
+| https://github.com/Olasergiolas/Go-AutoEQ/pull/33 | 0.0.4 | ✓ |
 | https://github.com/lentes4k/cAppjon/pull/25 | 0.0.11 | ✓ |
 | https://github.com/joaquingv12/Proyecto-IV/pull/23 | 0.0.7 | ✓ |
 | <!-- Enlace de gomares --> | | |
@@ -53,5 +53,5 @@
 | https://github.com/paula1999/Tune-in/pull/16 | 0.0.7 | |
 | <!-- Enlace de xCyal --> | | |
 | <!-- Enlace de vlljuan99 --> | | |
-| https://github.com/JAntonioVR/IV-2021-2022/pull/31 | 0.0.7 | |
+| https://github.com/JAntonioVR/IV-2021-2022/pull/31 | 0.0.7 | ✓ |
 | <!-- Enlace de pablozafra97 --> | | |
