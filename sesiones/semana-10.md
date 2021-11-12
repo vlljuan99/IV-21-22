@@ -24,6 +24,7 @@ Errores frecuentes:
 
 ## Material adicional
 
+* [Principios de diseño de código limpio](https://jj.github.io/curso-tdd/temas/organizando.html).
 * [Servicios avanzados](https://jj.github.io/curso-tdd/temas/servicios.html) en
   el curso 0 de IV/CC.
 * [Configuración de microservicios](http://jj.github.io/CC/documentos/temas/Configuracion_microservicios).
