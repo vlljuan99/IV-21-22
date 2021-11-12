@@ -3,10 +3,20 @@
 
 ## Objetivos a cubrir en la sesión
 
+1. Entender el concepto de código limpio o *clean code*.
 2. Entender el concepto de observabilidad.
 3. Entender el concepto de servicios en la nube tales como configuración remota.
 
 ## Contenidos
+
+Recordar los principios fundamentales de desarrollo ágil.
+
+Errores frecuentes:
+
+* Antipatrones en el desarrollo de software:
+  * No elegir la estructura de datos más adecuada para almacenar algo. En general, hay que usar más diccionarios.
+  * Comentarios en línea: siempre son malos. Documentación en los mensajes de commit o en la función/clase.
+  * Falta de encapsulación de los atributos de una clase. El interfaz de una clase debe estar totalmente separado de la implementación (también código limpio).
 
 ## Material para la clase
 
