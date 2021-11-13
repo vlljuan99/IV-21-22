@@ -45,7 +45,7 @@ jobs:
         if: ${{env.objetivo >= 5 }}
         env:
           CONTAINER: ${{ env.docker_user }}/${{ env.repo }}
-        run: docker run -t -v `pwd`:/test ${CONTAINER,,}
+        run: docker run -t -v `pwd`:/app/test ${CONTAINER,,}
   ops-using-API:
     runs-on: ubuntu-latest
     needs: ops-on-pr
