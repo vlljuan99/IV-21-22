@@ -2,7 +2,7 @@ use IO::Glob;
 
 unit class IV::Stats;
 
-has %.students;
+has %!students;
 
 method new( Str $file = "proyectos/usuarios.md") {
     my @students = $file.IO.slurp.lines.grep( /"<!--"/ )
@@ -18,4 +18,14 @@ method new( Str $file = "proyectos/usuarios.md") {
         }
     }
     self.bless( :%students );
+}
+
+submethod BUILD( :%!students) {}
+
+method objetivos-de( Str $user  ) {
+    return %!students{$user}<objetivo>-1;
+}
+
+method entregas-de( Str $user ) {
+    return %!students{$user}<entrega>-1;
 }

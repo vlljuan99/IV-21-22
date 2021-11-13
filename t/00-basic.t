@@ -7,5 +7,6 @@ my $stats = IV::Stats.new;
 say $stats;
 
 ok( $stats, "Can create object");
-say $stats;
+cmp-ok( $stats.objetivos-de('Asmilex'), ">=", 4, "Objetivos hechos");
+cmp-ok( $stats.entregas-de('Asmilex'), ">=", 5, "Entregas hechas");
 done-testing;
