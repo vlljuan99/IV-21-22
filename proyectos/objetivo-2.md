@@ -47,7 +47,7 @@ línea con tus iniciales.
 | https://github.com/arguellesm/faux/pull/8 | 0.0.3 | ✓ |
 | <!-- Enlace de sorozcov --> | | |
 | <!-- Enlace de jlortega00 --> | | |
-| [Xileon310](https://github.com/gomares/Proyecto_IV/pull/9) | 0.0.5 | |
+| [Xileon310](https://github.com/gomares/Proyecto_IV/pull/13) | 0.0.5 | |
 | [Parka015](https://github.com/NachoCarher/MyHams/pull/17) | 0.0.3 | ✓ |
 | https://github.com/albertotc99/MercadoClubesPro/pull/13 | 0.0.4 | ✓ |
 | [LuisSS20](https://github.com/aleveji/BuscaRecetas/pull/9) | 0.0.2 | ✓ |
