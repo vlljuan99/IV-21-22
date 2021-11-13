@@ -1,7 +1,6 @@
 # Asignación para el objetivo 2
 
 
-
 | URL                                        | Quién lo desarrolla |
 |--------------------------------------------|---------------------|
 | [noise-kngdm](https://github.com/noise-kngdm/music-matcher/pull/6) | @joaquingv12 |
@@ -9,7 +8,7 @@
 | [LuisArostegui](https://github.com/LuisArostegui/RealFoodRecipeCreator/pull/6) | @venrra |
 | https://github.com/Paszser/IV/pull/5 | @alexespana |
 | https://github.com/Mapachana/Proyecto-IV/pull/5 | @Pablont98 |
-| <!-- Enlace de eantoniocalo18 --> | | |
+| <!-- Enlace de eantoniocalo18 --> | @sorozcov |
 | [NachoCarher](https://github.com/NachoCarher/MyHams/pull/3)| Parka015  |
 | <!-- Enlace de C L A --> | | |
 | [Balrrach](https://github.com/Balrrach/IV-Proyecto/pull/7) | @Asmilex |
@@ -39,7 +38,7 @@
 | [amerigal](https://github.com/amerigal/proyecto_iv/pull/5)  | @noise-kngdm |
 | [Asmilex](https://github.com/Asmilex/IV/pull/6) |  |
 | https://github.com/ismaelmontesinos/PracticaIV/pull/3 | @agr8 |
-| https://github.com/morevi/jobcontrol/pull/1 | @sorozcov |
+| https://github.com/morevi/jobcontrol/pull/1 | |
 | https://github.com/Pablont98/IV/pull/8 | @vlljuan99 |
 | https://github.com/Slowmybrosh/PracticaIV/pull/10 | @migueorg |
 | https://github.com/sorozcov/proyecto-iv-ugr/pull/7 | @gomares |
