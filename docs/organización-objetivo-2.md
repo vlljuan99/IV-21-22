@@ -39,7 +39,7 @@
 | [amerigal](https://github.com/amerigal/proyecto_iv/pull/5)  | @noise-kngdm |
 | [Asmilex](https://github.com/Asmilex/IV/pull/6) |  |
 | https://github.com/ismaelmontesinos/PracticaIV/pull/3 | @agr8 |
-| <!-- Enlace de morevi --> | | |
+| https://github.com/morevi/jobcontrol/pull/1 | @sorozcov |
 | https://github.com/Pablont98/IV/pull/8 | @vlljuan99 |
 | https://github.com/Slowmybrosh/PracticaIV/pull/10 | @migueorg |
 | https://github.com/sorozcov/proyecto-iv-ugr/pull/7 | @gomares |
