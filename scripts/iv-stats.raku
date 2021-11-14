@@ -1,17 +1,16 @@
 #!/usr/bin/env perl6
 
-
 use IO::Glob;
+use IV::Stats;
 
-for glob( "proyectos/objetivo-*.md" ).sort: { $^a cmp $^b} -> $f {
-    my @contenido = $f.IO.lines;
-    my $todos = @contenido.grep( /"|"/).elems -2;
-    my @entregados = @contenido.grep( /github\.com/ );
-    my @aceptados = @entregados.grep( /"✓"/ );
-    my $objetivo = + ($f ~~ /(\d+)/);
+my $stats = IV::Stats.new;
+
+for $stats.objetivos -> $o {
+    my $aceptados = $stats.cumple-objetivo($o).elems;
+    my $entregados = $stats.hecha-entrega($o).elems;
     say sprintf( "%2d 🧮: %2d%%🚧 %2d%%✅ %2d%%❌ ⇒ \n     ",
-            $objetivo,
-            (@entregados.elems - @aceptados.elems)*100/ $todos,
+            $o,
+            ($entregados - $aceptados) *100/ $todos,
             @aceptados.elems*100/ $todos,
             ($todos - @entregados.elems)*100/$todos  ),
             ("🚧" xx @entregados.elems - @aceptados.elems,

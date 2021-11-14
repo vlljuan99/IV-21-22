@@ -61,3 +61,7 @@ method bajas-totales( UInt $objetivo) {
 method objetivos() {
     return @!entregas.keys;
 }
+
+method estudiantes() {
+    return %!students.keys;
+}

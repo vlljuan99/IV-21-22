@@ -14,4 +14,5 @@ ok( "Asmilex" ∈ $stats.hecha-entrega(5), "Entregas hechas");
 ok( $stats.bajas-objetivos(0), "Devuelve bajas objetivos");
 ok( $stats.bajas-totales(0), "Devuelve bajas totales");
 cmp-ok( $stats.objetivos.elems, ">=", 4, "Objetivos hasta ahora" );
+cmp-ok( $stats.estudiantes.elems, ">=", 10, "Estudiantes suficientes");
 done-testing;
