@@ -1,5 +1,5 @@
 stats: proyectos/objetivo-*.md
-	scripts/iv-stats.raku
+	raku -Ilib scripts/iv-stats.raku
 cumplimiento: proyectos/objetivo-*.md
 	scripts/iv-cumplimiento.raku
 objetivos:
