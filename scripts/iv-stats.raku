@@ -4,6 +4,7 @@ use IO::Glob;
 use IV::Stats;
 
 my $stats = IV::Stats.new;
+my $todos = $stats.estudiantes.elems;
 
 for $stats.objetivos -> $o {
     my $aceptados = $stats.cumple-objetivo($o).elems;
@@ -11,10 +12,10 @@ for $stats.objetivos -> $o {
     say sprintf( "%2d 🧮: %2d%%🚧 %2d%%✅ %2d%%❌ ⇒ \n     ",
             $o,
             ($entregados - $aceptados) *100/ $todos,
-            @aceptados.elems*100/ $todos,
-            ($todos - @entregados.elems)*100/$todos  ),
-            ("🚧" xx @entregados.elems - @aceptados.elems,
-            "✅" xx @aceptados.elems,
-            "❌" xx $todos - @entregados.elems).Slip.join("\n     ");
+            $aceptados*100/ $todos,
+            ($todos - $entregados)*100/$todos  ),
+            ("🚧" xx $entregados - $aceptados,
+            "✅" xx $aceptados,
+            "❌" xx $todos - $aceptados).Slip.join("\n     ");
 
 }
