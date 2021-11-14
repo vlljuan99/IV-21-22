@@ -57,3 +57,7 @@ method bajas-objetivos( UInt $objetivo) {
 method bajas-totales( UInt $objetivo) {
     return @!objetivos[$objetivo] ⊖  @!entregas[$objetivo + 1];
 }
+
+method objetivos() {
+    return @!entregas.keys;
+}
