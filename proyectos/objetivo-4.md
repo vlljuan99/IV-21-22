@@ -31,7 +31,6 @@
 | <!-- Enlace de venrra --> | | |
 | <!-- Enlace de Antobio17 --> | | |
 | <!-- Enlace de manujurado1 --> | | |
-| <!-- Enlace de L C G J --> | | |
 | <!-- Enlace de migueorg --> | | |
 | https://github.com/jesusmarzor/Peluqueria/pull/38 | 0.0.8 | |
 | <!-- Enlace de francisco3207 --> | | |

@@ -31,7 +31,6 @@
 | <!-- Enlace de venrra --> | | |
 | https://github.com/Antobio17/IV/pull/12 | 0.0.7 | ✓ |
 | <!-- Enlace de manujurado1 --> | | |
-| <!-- Enlace de L C G J --> | | |
 | <!-- Enlace de migueorg --> | | |
 | https://github.com/jesusmarzor/Peluqueria/pull/18 | 0.0.6 |✓ |
 | <!-- Enlace de francisco3207 --> | | |

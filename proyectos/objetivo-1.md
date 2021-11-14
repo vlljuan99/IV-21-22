@@ -35,7 +35,6 @@ línea con tus iniciales.
 | [venrra](https://github.com/venrra/apiTrainer/pull/8) | v0.1.2 |✓ |
 | [Antobio17](https://github.com/Antobio17/IV/pull/5) | 0.0.2 | ✓ |
 | <!-- Enlace de manujurado1 --> | | |
-| <!-- Enlace de L C G J --> | | |
 | [migueorg](https://github.com/migueorg/SearchCulture/pull/6) | 0.0.2 | ✓ |
 | [jesusmarzor](https://github.com/jesusmarzor/Proyecto-IV/pull/6) | 0.0.3 | ✓ |
 | <!-- Enlace de francisco3207 --> | | |

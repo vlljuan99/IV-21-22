@@ -30,7 +30,6 @@
 | <!-- Enlace de venrra --> | | |
 | <!-- Enlace de Antobio17 --> | | |
 | <!-- Enlace de manujurado1 --> | | |
-| <!-- Enlace de L C G J --> | | |
 | <!-- Enlace de migueorg --> | | |
 | <!-- Enlace de jesusmarzor --> | | |
 | <!-- Enlace de francisco3207 --> | | |

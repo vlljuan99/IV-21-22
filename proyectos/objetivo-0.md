@@ -35,7 +35,6 @@ línea con tus iniciales.
 | https://github.com/venrra/NombreGenericoAPI/pull/1  | v0.0.0 | ✓ |
 | https://github.com/Antobio17/IV/pull/1 | 0.0.1 | ✓ |
 | https://github.com/manujurado1/smartfootballapp/pull/1 | 0.0.1 | ✓ |
-| <!-- Enlace de L C G J --> | | |
 | https://github.com/migueorg/tmp-Proyecto-IV/pull/1 | 0.0.1 | ✓ |
 | https://github.com/jesusmarzor/Proyecto-IV/pull/2 | 0.0.2 | ✓  |
 | https://github.com/francisco3207/IVProyecto/pull/1 | 0.0.1 |✓ |
