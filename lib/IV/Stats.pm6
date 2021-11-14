@@ -4,30 +4,35 @@ unit class IV::Stats;
 
 has %!students;
 has @!objetivos;
+has @!entregas;
 
 method new( Str $file = "proyectos/usuarios.md") {
     my @students = $file.IO.slurp.lines.grep( /"<!--"/ )
         .map( *.split( "--" )[1].split(" ")[3]);
     my %students;
     my @objetivos;
+    my @entregas;
     @students.map: { %students{$_} = { :objetivo(0), :entrega(0) } };
     for glob( "proyectos/objetivo-*.md" ).sort: { $^a cmp $^b} -> $f {
         my ($objetivo) := $f ~~ /(\d+)/;
         my @contenido = $f.IO.lines.grep(/"|"/);
         @objetivos[$objetivo] = set();
+        @entregas[$objetivo] = set();
         for @students.kv -> $index, $usuario {
             if ( @contenido[$index + 2] ~~ /"✓"/ ) {
                 %students{$usuario}<objetivo> = +$objetivo;
                 @objetivos[$objetivo] ∪= $usuario;
             }
-            %students{$usuario}<entrega>++ if @contenido[$index + 2] ~~
-                    /"github.com"/;
+            if ( @contenido[$index + 2] ~~ /"github.com"/ ) {
+            %students{$usuario}<entrega> = +$objetivo ;
+            @entregas[$objetivo] ∪= $usuario;
+            }
         }
     }
-    self.bless( :%students, :@objetivos );
+    self.bless( :%students, :@objetivos, :@entregas );
 }
 
-submethod BUILD( :%!students, :@!objetivos) {}
+submethod BUILD( :%!students, :@!objetivos, :@!entregas) {}
 
 method objetivos-de( Str $user  ) {
     return %!students{$user}<objetivo>;
@@ -37,6 +42,10 @@ method entregas-de( Str $user ) {
     return %!students{$user}<entrega>;
 }
 
-method cumplieron-objetivo( UInt $objetivo ) {
+method cumple-objetivo( UInt $objetivo ) {
     return @!objetivos[$objetivo];
+}
+
+method hecha-entrega( UInt $entrega ) {
+    return @!entregas[$entrega];
 }
