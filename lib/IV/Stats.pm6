@@ -3,6 +3,7 @@ use IO::Glob;
 unit class IV::Stats;
 
 has %!students;
+has @!objetivos;
 
 method new( Str $file = "proyectos/usuarios.md") {
     my @students = $file.IO.slurp.lines.grep( /"<!--"/ )
@@ -10,9 +11,12 @@ method new( Str $file = "proyectos/usuarios.md") {
     my %students;
     @students.map: { %students{$_} = { :objetivo(0), :entrega(0) } };
     for glob( "proyectos/objetivo-*.md" ).sort: { $^a cmp $^b} -> $f {
+        my ($objetivo) := $f ~~ /(\d+)/;
         my @contenido = $f.IO.lines.grep(/"|"/);
         for @students.kv -> $index, $usuario {
-            %students{$usuario}<objetivo>++ if @contenido[$index + 2] ~~ /"✓"/;
+            if ( @contenido[$index + 2] ~~ /"✓"/ ) {
+                %students{$usuario}<objetivo> = +$objetivo;
+            }
             %students{$usuario}<entrega>++ if @contenido[$index + 2] ~~
                     /"github.com"/;
         }
@@ -23,9 +27,9 @@ method new( Str $file = "proyectos/usuarios.md") {
 submethod BUILD( :%!students) {}
 
 method objetivos-de( Str $user  ) {
-    return %!students{$user}<objetivo>-1;
+    return %!students{$user}<objetivo>;
 }
 
 method entregas-de( Str $user ) {
-    return %!students{$user}<entrega>-1;
+    return %!students{$user}<entrega>;
 }
