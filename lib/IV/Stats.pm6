@@ -49,3 +49,11 @@ method cumple-objetivo( UInt $objetivo ) {
 method hecha-entrega( UInt $entrega ) {
     return @!entregas[$entrega];
 }
+
+method bajas-objetivos( UInt $objetivo) {
+    return @!objetivos[$objetivo] ⊖  @!objetivos[$objetivo + 1];
+}
+
+method bajas-totales( UInt $objetivo) {
+    return @!objetivos[$objetivo] ⊖  @!entregas[$objetivo + 1];
+}
