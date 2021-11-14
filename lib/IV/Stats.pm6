@@ -24,11 +24,10 @@ method new( Str $file = "proyectos/usuarios.md") {
                     /"github.com"/;
         }
     }
-    say @objetivos;
     self.bless( :%students, :@objetivos );
 }
 
-submethod BUILD( :%!students) {}
+submethod BUILD( :%!students, :@!objetivos) {}
 
 method objetivos-de( Str $user  ) {
     return %!students{$user}<objetivo>;
@@ -36,4 +35,8 @@ method objetivos-de( Str $user  ) {
 
 method entregas-de( Str $user ) {
     return %!students{$user}<entrega>;
+}
+
+method cumplieron-objetivo( UInt $objetivo ) {
+    return @!objetivos[$objetivo];
 }
