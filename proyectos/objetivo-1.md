@@ -58,3 +58,4 @@ línea con tus iniciales.
 | [vlljuan99](https://github.com/vlljuan99/gasolinapp/pull/11) | 0.0.2 | ✓ |
 | [JAntonioVR](https://github.com/JAntonioVR/IV-2021-2022/pull/8) | 0.0.2 |✓ |
 | <!-- Enlace de pablozafra97 --> | | |
+| [eantoniocalo18](https://github.com/eantoniocalo18/IV/pull/4) | 0.0.3 | |
