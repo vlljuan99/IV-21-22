@@ -12,7 +12,7 @@ línea con tus iniciales.
 | [LuisArostegui](https://github.com/LuisArostegui/RealFoodRecipeCreator/pull/6) | 0.0.2 | ✓|
 | https://github.com/Paszser/IV/puliv-statsl/5 | 0.0.2 | ✓ |
 | https://github.com/Mapachana/Proyecto-IV/pull/5 | 0.0.2 | ✓ |
-| [eantoniocalo18](https://github.com/eantoniocalo18/IV/pull/4) | 0.0.3 | |
+| [eantoniocalo18](https://github.com/eantoniocalo18/IV/pull/4) | 0.0.3 |✓ |
 | [NachoCarher](https://github.com/NachoCarher/MyHams/pull/3)| 0.0.2 |✓ |
 | <!-- Enlace de C L A --> | | |
 | [Balrrach](https://github.com/Balrrach/IV-Proyecto/pull/7) | 0.0.4 |✓ |
