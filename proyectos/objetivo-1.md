@@ -37,7 +37,7 @@ línea con tus iniciales.
 | <!-- Enlace de manujurado1 --> | | |
 | [migueorg](https://github.com/migueorg/SearchCulture/pull/6) | 0.0.2 | ✓ |
 | [jesusmarzor](https://github.com/jesusmarzor/Proyecto-IV/pull/6) | 0.0.3 | ✓ |
-| [francisco3207](https://github.com/francisco3207/IVProyecto/pull/2) |0.0.1 | |
+| [francisco3207](https://github.com/francisco3207/IVProyecto/pull/2) |0.0.1 | ✓ |
 | [amerigal](https://github.com/amerigal/proyecto_iv/pull/5) | 0.0.2 | ✓ |
 | [Asmilex](https://github.com/Asmilex/IV/pull/6) | 0.0.3 |✓ |
 | https://github.com/ismaelmontesinos/PracticaIV/pull/14 | 0.0.3 | ✓ |
