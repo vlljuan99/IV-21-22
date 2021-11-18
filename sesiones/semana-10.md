@@ -16,7 +16,11 @@ Errores frecuentes:
 * Antipatrones en el desarrollo de software:
   * No elegir la estructura de datos más adecuada para almacenar algo. En general, hay que usar más diccionarios.
   * Comentarios en línea: siempre son malos. Documentación en los mensajes de commit o en la función/clase.
-  * Falta de encapsulación de los atributos de una clase. El interfaz de una clase debe estar totalmente separado de la implementación (también código limpio).
+  * Falta de encapsulación de los atributos de una clase. El interfaz de una
+    clase debe estar totalmente separado de la implementación (también código
+    limpio).
+  * Crear estructuras de datos mutables cuando deberían ser inmutables. En
+    general, juntar "objeto" y "cosas que hace el objeto" en una sola clase.
 
 ## Material para la clase
 
