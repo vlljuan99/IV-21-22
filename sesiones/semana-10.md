@@ -21,9 +21,13 @@ Errores frecuentes:
     limpio).
   * Crear estructuras de datos mutables cuando deberían ser inmutables. En
     general, juntar "objeto" y "cosas que hace el objeto" en una sola clase.
+  * Nadie os ha pedido, ni os va a pedir, un programa principal. No lo metáis
+    "para probar".
+  
 
 ## Material para la clase
 
+* [Principios SOLID y de programación defensiva](https://jj.github.io/curso-tdd/temas/a-programar.html).
 * [Objetivo 7, servicios para aplicaciones en la nube](http://jj.github.io/IV/documentos/proyecto/7.Servicios)
 
 ## Material adicional
