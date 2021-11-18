@@ -19,19 +19,18 @@
 | <!-- Enlace de josevilchez247 --> | | |
 | <!-- Enlace de arguellesm --> | | |
 | <!-- Enlace de DFolchA --> | | |
-| <!-- Enlace de JaimeGM96 --> | | |
+| https://github.com/JaimeGM96/Practica-IV/pull/13 | 0.0.6 | |
 | <!-- Enlace de agr8 --> | | |
 | https://github.com/Olasergiolas/Go-AutoEQ/pull/19 | 0.0.3 | ✓ |
 | https://github.com/lentes4k/cAppjon/pull/22 | 0.0.6 |✓ |
 | https://github.com/joaquingv12/Proyecto-IV/pull/9 | 0.0.5 |✓ |
 | <!-- Enlace de gomares --> | | |
 | https://github.com/modejota/StoragIV/pull/19 | 0.0.7 | ✓ |
-| <!-- Enlace de argelion14 --> | | |
+| https://github.com/argelion14/Sport-car/pull/16 | 0.0.6 | |
 | <!-- Enlace de juanmihdz --> | | |
 | <!-- Enlace de venrra --> | | |
 | https://github.com/Antobio17/IV/pull/12 | 0.0.7 | ✓ |
 | <!-- Enlace de manujurado1 --> | | |
-| <!-- Enlace de L C G J --> | | |
 | <!-- Enlace de migueorg --> | | |
 | https://github.com/jesusmarzor/Peluqueria/pull/18 | 0.0.6 |✓ |
 | <!-- Enlace de francisco3207 --> | | |
@@ -40,7 +39,7 @@
 | <!-- Enlace de ismaelmontesinos --> | | |
 | <!-- Enlace de morevi --> | | |
 | https://github.com/Pablont98/IV/pull/14 | 0.0.5 |✓ |
-| <!-- Enlace de Slowmybrosh --> | | |
+| https://github.com/Slowmybrosh/DietApp/pull/20 | 0.0.4 | |
 | <!-- Enlace de sorozcov --> | | |
 | <!-- Enlace de jlortega00 --> | | |
 | <!-- Enlace de Xileon310 --> | | |

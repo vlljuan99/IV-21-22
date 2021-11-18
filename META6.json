@@ -11,8 +11,11 @@
   "perl" : "6.d",
   "resources" : [ ],
   "source-url" : "https://github.com/JJ/IV-21-22.git",
+  "provides": {
+    "IV::Stats": "lib/IV/Stats.pm6"
+  },
   "tags" : [
-    "scripts"
+    "scripts", "learning analytics"
   ],
     "version" : "0.0.1",
     "meta-version": 1

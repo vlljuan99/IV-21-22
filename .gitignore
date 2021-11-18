@@ -21,3 +21,5 @@ fatlib
 
 .idea/
 *.iml
+
+.precomp

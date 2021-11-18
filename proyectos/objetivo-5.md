@@ -11,7 +11,7 @@
 | <!-- Enlace de NachoCarher --> | | |
 | <!-- Enlace de C L A --> | | |
 | <!-- Enlace de Balrrach --> | | |
-| <!-- Enlace de alexespana --> | | |
+| https://github.com/alexespana/barpower/pull/31 | 0.0.7 | |
 | <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
 | <!-- Enlace de danifm1321 --> | | |
@@ -22,7 +22,7 @@
 | <!-- Enlace de agr8 --> | | |
 | <!-- Enlace de Olasergiolas --> | | |
 | <!-- Enlace de lentes4k --> | | |
-| <!-- Enlace de joaquingv12 --> | | |
+| https://github.com/joaquingv12/car_workshop-maximizer/pull/32 | 0.0.6 | |
 | <!-- Enlace de gomares --> | | |
 | <!-- Enlace de modejota --> | | |
 | <!-- Enlace de argelion14 --> | | |
@@ -30,12 +30,11 @@
 | <!-- Enlace de venrra --> | | |
 | <!-- Enlace de Antobio17 --> | | |
 | <!-- Enlace de manujurado1 --> | | |
-| <!-- Enlace de L C G J --> | | |
 | <!-- Enlace de migueorg --> | | |
 | <!-- Enlace de jesusmarzor --> | | |
 | <!-- Enlace de francisco3207 --> | | |
 | <!-- Enlace de amerigal --> | | |
-| <!-- Enlace de Asmilex --> | | |
+| https://github.com/Asmilex/IV/pull/23  | 0.1.9 | ✓ |
 | <!-- Enlace de ismaelmontesinos --> | | |
 | <!-- Enlace de morevi --> | | |
 | <!-- Enlace de Pablont98 --> | | |

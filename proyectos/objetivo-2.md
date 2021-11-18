@@ -24,19 +24,18 @@ línea con tus iniciales.
 | [arguellesm](https://github.com/migueorg/SearchCulture/pull/10) | 0.0.3 | |
 | <!-- Enlace de DFolchA --> | | |
 | <!-- Enlace de JaimeGM96 --> | | |
-| <!-- Enlace de agr8 --> | | |
+| [agr8](https://github.com/ismaelmontesinos/InmuVenta/pull/21)| 0.0.4 | |
 | https://github.com/paula1999/Tune-in/pull/13 | 0.0.4 | ✓ |
 | https://github.com/modejota/StoragIV/pull/18 | 0.0.3 | ✓ |
 | https://github.com/noise-kngdm/music-matcher/pull/10 | 0.0.3 | ✓ |
-| <!-- Enlace de gomares --> | | |
+| https://github.com/sorozcov/proyecto-iv-ugr/pull/10 | 0.0.3 | |
 | https://github.com/agr8/Proyecto-IV/pull/19 | 0.0.4 | ✓ |
-| https://github.com/Antobio17/IV/pull/10 | 0.0.3 | |
+| https://github.com/Antobio17/IV/pull/21 | 0.0.4 | |
 | <!-- Enlace de juanmihdz --> | | |
-| <!-- Enlace de venrra --> | | |
+| https://github.com/LuisArostegui/MyWallet/pull/11 | 0.2.2 | |
 | https://github.com/alexespana/Proyecto-IV/pull/16 | 0.0.4 | ✓ |
 | <!-- Enlace de manujurado1 --> | | |
-| <!-- Enlace de L C G J --> | | |
-| https://github.com/Slowmybrosh/DietApp/pull/19 | 0.0.3 | |
+| https://github.com/Slowmybrosh/DietApp/pull/19 | 0.0.3 | ✓ |
 | https://github.com/joaquingv12/Proyecto-IV/pull/21  | 0.0.4 | ✓ |
 | <!-- Enlace de francisco3207 --> | | |
 | [amerigal](https://github.com/danifm1321/proyectoIV/pull/9) | 0.0.3 | ✓ |
@@ -47,7 +46,7 @@ línea con tus iniciales.
 | https://github.com/arguellesm/faux/pull/8 | 0.0.3 | ✓ |
 | <!-- Enlace de sorozcov --> | | |
 | <!-- Enlace de jlortega00 --> | | |
-| [Xileon310](https://github.com/gomares/Proyecto_IV/pull/9) | 0.0.5 | |
+| [Xileon310](https://github.com/gomares/Proyecto_IV/pull/13) | 0.0.5 | |
 | [Parka015](https://github.com/NachoCarher/MyHams/pull/17) | 0.0.3 | ✓ |
 | https://github.com/albertotc99/MercadoClubesPro/pull/13 | 0.0.4 | ✓ |
 | [LuisSS20](https://github.com/aleveji/BuscaRecetas/pull/9) | 0.0.2 | ✓ |
