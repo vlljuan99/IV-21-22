@@ -139,3 +139,39 @@ jobs:
                 }
               })
             }
+      - name: Comprueba el estado de CI
+        if: ${{env.objetivo >= 6}}
+        uses: actions/github-script@v3
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            const {objetivo_msg, all_good, sorry } = require("./lib/mensajes.js")
+            const { user, repo } = process.env
+            console.log( objetivo_msg(6) )
+            console.log( "» Analizando repo " + repo + " del usuario 🔥" + user )
+            const checks_before_pag =
+                    await github.checks.listForRef.endpoint.merge(
+                        { owner: user,
+                          repo: repo,
+                          ref: 'HEAD',
+                          status: 'completed'
+                        })
+            const checks = await github.paginate( checks_before_pag)
+            console.log( all_good("✅ Hay " + checks.length + " sistemas de CI configurados"))
+
+            if ( checks.length < 1 ) {
+                    core.setFailed( sorry("No hay suficientes sistemas de CI configurados"))
+            }
+            const green_checks = checks.filter( check => check.conclusion === "success" )
+            if ( !green_checks.length ) {
+              core.setFailed(sorry("No hay al menos un CI que esté en verde"))
+            } else {
+              console.log( all_good("Hay " + green_checks.length + " que pasa(n) los tests correctamente" ))
+            }
+            const travis_checks_green = green_checks.filter( check => check.app.slug === "travis-ci" )
+
+            if ( travis_checks_green.length == 0 ) {
+              core.setFailed(sorry("Travis no está o está fallando en este momento"))
+            } else {
+              console.log( all_good("Entre ellos está Travis" ))
+            }
