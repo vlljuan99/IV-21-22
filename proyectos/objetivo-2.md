@@ -30,7 +30,7 @@ línea con tus iniciales.
 | https://github.com/noise-kngdm/music-matcher/pull/10 | 0.0.3 | ✓ |
 | [gomares](https://github.com/sorozcov/proyecto-iv-ugr/pull/10) | 0.0.3 | |
 | https://github.com/agr8/Proyecto-IV/pull/19 | 0.0.4 | ✓ |
-| https://github.com/Antobio17/IV/pull/21 | 0.0.4 | |
+| https://github.com/Antobio17/IV/pull/21 | 0.0.4 | ✓ |
 | <!-- Enlace de juanmihdz --> | | |
 | https://github.com/LuisArostegui/MyWallet/pull/11 | 0.2.2 | |
 | https://github.com/alexespana/Proyecto-IV/pull/16 | 0.0.4 | ✓ |
