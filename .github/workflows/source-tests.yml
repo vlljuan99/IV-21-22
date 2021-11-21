@@ -13,6 +13,7 @@ jobs:
       checkout_repo: ${{steps.pr_info.outputs.checkout_repo}}
       objetivo: ${{steps.pr_info.outputs.objetivo}}
       rama: ${{steps.pr_info.outputs.rama}}
+      pr_milestone: ${{steps.pr_info.outputs.pr_milestone}}
     steps:
       - id: pr_info
         name: Comprueba y analiza
