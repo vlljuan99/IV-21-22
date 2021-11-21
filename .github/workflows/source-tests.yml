@@ -65,6 +65,7 @@ jobs:
           script: |
             const {all_good, sorry } = require("./lib/mensajes.js")
             const milestone = process.env.pr_milestone
+            console.log("Milestone ", process.env.pr_milestone , "-")
             if ( milestone === null ) {
                 core.setFailed( sorry( "El PR tiene que estar asignado a un milestone") )
             } else {
