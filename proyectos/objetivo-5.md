@@ -11,7 +11,7 @@
 | <!-- Enlace de NachoCarher --> | | |
 | <!-- Enlace de C L A --> | | |
 | https://github.com/Balrrach/Instant-Eat/pull/22 | 0.0.17 | |
-| https://github.com/alexespana/barpower/pull/31 | 0.0.7 | |
+| https://github.com/alexespana/barpower/pull/31 | 0.0.7 | ✓ |
 | <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
 | <!-- Enlace de danifm1321 --> | | |
