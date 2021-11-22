@@ -43,7 +43,7 @@
 | <!-- Enlace de sorozcov --> | | |
 | <!-- Enlace de jlortega00 --> | | |
 | <!-- Enlace de Xileon310 --> | | |
-| [Parka015](https://github.com/Parka015/SerieMotion-IV/pull/9) | 0.0.6 | |
+| [Parka015](https://github.com/Parka015/SerieMotion-IV/pull/9) | 0.0.6 |✓ |
 | <!-- Enlace de edusegrich --> | | |
 | <!-- Enlace de LuisSS20 --> | | |
 | <!-- Enlace de juanfran00 --> | | |
