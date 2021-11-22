@@ -37,7 +37,7 @@
 | https://github.com/Asmilex/IV/pull/23  | 0.1.9 | ✓ |
 | <!-- Enlace de ismaelmontesinos --> | | |
 | <!-- Enlace de morevi --> | | |
-| https://github.com/Pablont98/recetas-iv/pull/38 | 0.0.8 | |
+| https://github.com/Pablont98/recetas-iv/pull/38 | 0.0.8 | ✓ |
 | <!-- Enlace de Slowmybrosh --> | | |
 | <!-- Enlace de sorozcov --> | | |
 | <!-- Enlace de jlortega00 --> | | |
