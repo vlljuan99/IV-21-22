@@ -32,7 +32,7 @@
 | https://github.com/Antobio17/IV/pull/28 | 0.1.1 | ✓ |
 | <!-- Enlace de manujurado1 --> | | |
 | <!-- Enlace de migueorg --> | | |
-| https://github.com/jesusmarzor/Peluqueria/pull/38 | 0.0.8 | |
+| https://github.com/jesusmarzor/Peluqueria/pull/38 | 0.0.8 |✓ |
 | <!-- Enlace de francisco3207 --> | | |
 | https://github.com/amerigal/gestor-recibos/pull/20 | 0.0.8 |✓ |
 | https://github.com/Asmilex/IV/pull/18 | 0.1.2 | ✓ |
