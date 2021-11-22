@@ -8,7 +8,10 @@
 
 ## Contenidos
 
-Errores frecuentes objetivo 5:
+* Entender cómo se hace una *justificación técnica* y por qué hay que hacerla en
+  esta asignatura.
+
+### Errores frecuentes objetivo 5:
 * Hacer que el Dockerfile se genere siempre. CI es cosa del objetivo siguiente,
   pero aún así expliqué en clase como hacerlo.
 * `WORKDIR` incorrectos (que aún así funcionan, no sé por qué)
