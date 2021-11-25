@@ -183,8 +183,8 @@ jobs:
             } else {
               console.log( all_good("Hay " + green_checks.length + " que pasa(n) los tests correctamente" ))
             }
-            const mandatory_checks_green = green_checks.filter( check => check.app.slug === "travis-ci" || check.app.slug === "github-action" || check.app.slug === "circleci-checks" )
-
+            console.log("CIs en verde ", green_checks );
+            const mandatory_checks_green = green_checks.filter( check => (check.app.slug === "travis-ci") || (check.app.slug === "github-action") || (check.app.slug === "circleci-checks" ))
             if ( mandatory_checks_green.length == 0 ) {
               core.setFailed(sorry("No hay ninguno de los CIs autorizados funcionando con el último commit"))
             } else {
