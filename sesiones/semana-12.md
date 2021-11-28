@@ -25,4 +25,4 @@
 
 ## Siguientes sesiones
 
-[Octava semana](semana-08.md)
+[Semana décimo tercera](semana-13.md)
