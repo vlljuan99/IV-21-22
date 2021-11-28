@@ -8,8 +8,17 @@
 
 ## Contenidos
 
+### Errores frecuentes
+
+* Objetivo 6:
+  * No configurar un segundo sistema de CI para tests.
+  * No hacer tests diferentes en los dos sistemas.
+  * No testear diferentes versiones del lenguaje (lo que mostramos en clase y se
+    hace muy fácilmente con Travis).
+
 ## Material para la clase
 
+* Entender el concepto de *matriz CI* y cómo usarlo en diferentes sistemas.
 
 ## Material adicional
 
