@@ -15,6 +15,7 @@
   * No hacer tests diferentes en los dos sistemas.
   * No testear diferentes versiones del lenguaje (lo que mostramos en clase y se
     hace muy fácilmente con Travis).
+  * Testear versiones arbitrarias del lenguaje sin ningún criterio.
 
 ## Material para la clase
 
