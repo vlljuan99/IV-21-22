@@ -14,6 +14,12 @@ Desde ayer, todos los objetivos tienen una lista de comprobación. Tendréis que
 copiar y pegar esa lista de comprobación en el PR de vuestro repositorio y
 evidentemente leerla con atención para que se revise.
 
+* Todos los objetivos
+  * No copiéis instrucciones para instalar cosas o configurar cosas. Enlazad el
+    recurso correspondiente. Sólo se os pide que justifiquéis lo que hacéis, no
+    que pongáis instrucciones que están en otro lado (y que pueden caer
+    rápidamente en desuso).
+
 * Objetivo 6:
   * No configurar un segundo sistema de CI para tests.
   * No hacer tests diferentes en los dos sistemas.
