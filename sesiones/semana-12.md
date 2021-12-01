@@ -10,6 +10,10 @@
 
 ### Errores frecuentes
 
+Desde ayer, todos los objetivos tienen una lista de comprobación. Tendréis que
+copiar y pegar esa lista de comprobación en el PR de vuestro repositorio y
+evidentemente leerla con atención para que se revise.
+
 * Objetivo 6:
   * No configurar un segundo sistema de CI para tests.
   * No hacer tests diferentes en los dos sistemas.
