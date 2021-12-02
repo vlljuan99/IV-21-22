@@ -29,10 +29,13 @@ evidentemente leerla con atención para que se revise.
 
 ## Material para la clase
 
-* Entender el concepto de *matriz CI* y cómo usarlo en diferentes sistemas.
+* Entender el concepto de *matriz CI* y cómo usarlo en diferentes sistemas. Por
+  ejemplo en [Semaphore CI](https://github.com/JJ/tests-python/blob/set-up-semaphore/.semaphore/semaphore.yml).
 
 ## Material adicional
 
+El siguiente objetivo corresponde al diseño de [un API
+REST](http://jj.github.io/IV/documentos/proyecto/8.REST).
 
 ## Siguientes sesiones
 
