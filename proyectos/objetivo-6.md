@@ -37,7 +37,7 @@
 | https://github.com/Asmilex/IV/pull/27                         | 0.2.2   |           |
 | <!-- Enlace de ismaelmontesinos -->                           |         |           |
 | <!-- Enlace de morevi -->                                     |         |           |
-| <!-- Enlace de Pablont98 -->                                  |         |           |
+| https://github.com/Pablont98/recetas-iv/pull/42               | 0.0.10  |           |
 | https://github.com/Slowmybrosh/DietApp/pull/38                | 0.0.7   |           |
 | <!-- Enlace de sorozcov -->                                   |         |           |
 | <!-- Enlace de jlortega00 -->                                 |         |           |
