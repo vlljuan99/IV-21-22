@@ -47,10 +47,10 @@
 | [edusegrich](https://github.com/edusegrich/OpoTests/pull/30) | 0.0.4 | ✓ |
 | [LuisSS20](https://github.com/LuisSS20/DontWait/pull/9) | 0.0.4 | |
 | <!-- Enlace de juanfran00 --> | | |
-| https://github.com/albertotc99/MercadoClubesPro/pull/15 | 0.0.5 | |
+| https://github.com/albertotc99/MercadoClubesPro/pull/15 | 0.0.5 | ✓ |
 | https://github.com/aleveji/BuscaRecetas/pull/11 | 0.0.4 |✓ |
 | https://github.com/paula1999/Tune-in/pull/14 | 0.0.6 |  ✓ |
 | <!-- Enlace de xCyal --> | | |
-| [vlljuan99](https://github.com/vlljuan99/gasolinapp/pull/21) | 0.0.2 | |
+| [vlljuan99](https://github.com/vlljuan99/gasolinapp/pull/21) | 0.0.2 | ✓ |
 | https://github.com/JAntonioVR/IV-2021-2022/pull/22 | 0.0.6 | ✓ |
 | <!-- Enlace de pablozafra97 --> | | |
