@@ -44,7 +44,7 @@
 | <!-- Enlace de jlortega00 --> | | |
 | [Xileon310](https://github.com/Xileon310/IV-Project/pull/26) | 0.0.6 | ✓ |
 | [Parka015](https://github.com/Parka015/SerieMotion-IV/pull/9) | 0.0.6 |✓ |
-| [edusegrich](https://github.com/edusegrich/OpoTests/pull/30) | 0.0.4 | |
+| [edusegrich](https://github.com/edusegrich/OpoTests/pull/30) | 0.0.4 | ✓ |
 | [LuisSS20](https://github.com/LuisSS20/DontWait/pull/9) | 0.0.4 | |
 | <!-- Enlace de juanfran00 --> | | |
 | https://github.com/albertotc99/MercadoClubesPro/pull/15 | 0.0.5 | |
