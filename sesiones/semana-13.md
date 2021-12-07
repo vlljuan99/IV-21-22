@@ -31,6 +31,11 @@
     cumplen y cuales no, y si hay varios que los cumplen, qué criterios
     adicionales (que tendrán que estar arriba de todas formas) se han seguido
     para elegir el correcto.
+* *Incluir en un milestone* no es "poner el PR en el milestone". Es decidir en
+  qué producto mínimamente viable cabe lo que sea que se vaya a producir en el
+  objetivo correspondiente, e incluirlo en la descripción.
+* Si dejáis los comentarios incluidos por el generador de código, lo único que
+  indicáis es que no lo habéis hecho vosotros orden por orden.
 
 ## Material para la clase
 
