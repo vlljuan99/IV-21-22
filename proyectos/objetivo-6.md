@@ -11,7 +11,7 @@
 | <!-- Enlace de NachoCarher -->                                |         |           |
 | <!-- Enlace de C L A -->                                      |         |           |
 | <!-- Enlace de Balrrach -->                                   |         |           |
-| https://github.com/alexespana/barpower/pull/37                | 0.0.9   |   ✓       |
+| https://github.com/alexespana/barpower/pull/37                | 0.0.9   | ✓         |
 | <!-- Enlace de Javierexmar -->                                |         |           |
 | <!-- Enlace de MarinoFajardo -->                              |         |           |
 | <!-- Enlace de danifm1321 -->                                 |         |           |
@@ -21,14 +21,14 @@
 | <!-- Enlace de JaimeGM96 -->                                  |         |           |
 | <!-- Enlace de agr8 -->                                       |         |           |
 | https://github.com/Olasergiolas/Go-AutoEQ/pull/46             | 0.0.7   |           |
-| https://github.com/lentes4k/cAppjon/pull/31                   | 0.1.1   |           |
-| https://github.com/joaquingv12/car_workshop-maximizer/pull/40 | 0.0.8   |  ✓        |
+| https://github.com/lentes4k/cAppjon/pull/31                   | 0.1.1   | ✓         |
+| https://github.com/joaquingv12/car_workshop-maximizer/pull/40 | 0.0.8   | ✓         |
 | <!-- Enlace de gomares -->                                    |         |           |
 | https://github.com/modejota/StoragIV/pull/29                  | 0.0.11  | ✓         |
 | <!-- Enlace de argelion14 -->                                 |         |           |
 | <!-- Enlace de juanmihdz -->                                  |         |           |
 | <!-- Enlace de venrra -->                                     |         |           |
-| https://github.com/Antobio17/IV/pull/38                       | 0.1.1   |  ✓        |
+| https://github.com/Antobio17/IV/pull/38                       | 0.1.1   | ✓         |
 | <!-- Enlace de manujurado1 -->                                |         |           |
 | <!-- Enlace de migueorg -->                                   |         |           |
 | https://github.com/jesusmarzor/Peluqueria/pull/48             | 0.0.14  |           |
@@ -38,7 +38,7 @@
 | <!-- Enlace de ismaelmontesinos -->                           |         |           |
 | <!-- Enlace de morevi -->                                     |         |           |
 | https://github.com/Pablont98/recetas-iv/pull/42               | 0.0.10  | ✓         |
-| https://github.com/Slowmybrosh/DietApp/pull/38                | 0.0.7   |  ✓        |
+| https://github.com/Slowmybrosh/DietApp/pull/38                | 0.0.7   | ✓         |
 | <!-- Enlace de sorozcov -->                                   |         |           |
 | <!-- Enlace de jlortega00 -->                                 |         |           |
 | <!-- Enlace de Xileon310 -->                                  |         |           |
