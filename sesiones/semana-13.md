@@ -42,6 +42,9 @@
 
 ### Errores frecuentes
 
+* Objetivo 3:
+  * Nadie os ha pedido que seleccionéis un gestor de dependencias.
+  * Ni que copiéis las instrucciones de instalación de poetry.
 * *Elegir una herramienta* no es decir "He elegido esta porque me gusta". Se ha
   explicado en clase repetidamente como hacerlo. Hay que establecer
   * Requisitos. Qué es lo que quiero que haga, o cómo quiero que lo haga. Esto
