@@ -19,7 +19,7 @@
 | <!-- Enlace de josevilchez247 --> | | |
 | https://github.com/arguellesm/faux/pull/11 | 0.0.4 |✓  |
 | <!-- Enlace de DFolchA --> | | |
-| https://github.com/JaimeGM96/Practica-IV/pull/13 | 0.0.6 | |
+| https://github.com/JaimeGM96/Practica-IV/pull/13 | 0.0.6 | ✓|
 | [agr8](https://github.com/agr8/Planner-IV/pull/21) | 0.0.5 |✓ |
 | https://github.com/Olasergiolas/Go-AutoEQ/pull/19 | 0.0.3 | ✓ |
 | https://github.com/lentes4k/cAppjon/pull/22 | 0.0.6 |✓ |
