@@ -20,7 +20,7 @@
 | <!-- Enlace de DFolchA -->                                    |         |           |
 | <!-- Enlace de JaimeGM96 -->                                  |         |           |
 | <!-- Enlace de agr8 -->                                       |         |           |
-| https://github.com/Olasergiolas/Go-AutoEQ/pull/46             | 0.0.7   |           |
+| https://github.com/Olasergiolas/Go-AutoEQ/pull/46             | 0.0.7   |  ✓        |
 | https://github.com/lentes4k/cAppjon/pull/31                   | 0.1.1   | ✓         |
 | https://github.com/joaquingv12/car_workshop-maximizer/pull/40 | 0.0.8   | ✓         |
 | <!-- Enlace de gomares -->                                    |         |           |
@@ -48,7 +48,7 @@
 | <!-- Enlace de juanfran00 -->                                 |         |           |
 | <!-- Enlace de Albertotc99 -->                                |         |           |
 | <!-- Enlace de aleveji -->                                    |         |           |
-| [paula1999](https://github.com/paula1999/Tune-in/pull/22)     | 0.0.10  |           |
+| [paula1999](https://github.com/paula1999/Tune-in/pull/22)     | 0.0.10  |  ✓        |
 | <!-- Enlace de xCyal -->                                      |         |           |
 | <!-- Enlace de vlljuan99 -->                                  |         |           |
 | <!-- Enlace de JAntonioVR -->                                 |         |           |
