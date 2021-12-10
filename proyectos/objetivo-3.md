@@ -8,7 +8,7 @@
 | [LuisArostegui](https://github.com/LuisArostegui/MyWallet/pull/12) | 0.0.7 |✓ |
 | https://github.com/Paszser/ComparerApp/pull/20 | 0.0.5 | ✓ |
 | https://github.com/Mapachana/Predictor-COVID/pull/9 | 0.0.5 | ✓ |
-| <!-- Enlace de eantoniocalo18 --> | | |
+| https://github.com/eantoniocalo18/IV/pull/26 | 0.0.5 | |
 | <!-- Enlace de NachoCarher --> | | |
 | <!-- Enlace de C L A --> | | |
 | https://github.com/Balrrach/IV-Proyecto/pull/16 | 0.0.9 | ✓ |
