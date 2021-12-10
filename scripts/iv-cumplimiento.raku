@@ -17,5 +17,6 @@ for glob( "proyectos/objetivo-*.md" ).sort: { $^a cmp $^b} -> $f {
 
 for %latest.sort( { $^b.value <=> $^a.value } ) -> $p {
     my ($u,$v) = $p.kv;
-    say $u, " → ", [+]  @cumplimiento[ ^$v];
+    my $porcentaje = [+]  @cumplimiento[ ^$v];
+    say $u, " → ", $porcentaje, ": ", $porcentaje * 7;
 }
