@@ -24,7 +24,7 @@
 | https://github.com/Olasergiolas/Go-AutoEQ/pull/33 | 0.0.4 | ✓ |
 | https://github.com/lentes4k/cAppjon/pull/25 | 0.0.11 | ✓ |
 | https://github.com/joaquingv12/Proyecto-IV/pull/23 | 0.0.7 | ✓ |
-| <!-- Enlace de gomares --> | | |
+| [gomares](https://github.com/gomares/More-mangas/pull/30)|0.0.5| |
 | https://github.com/modejota/StoragIV/pull/24 | 0.0.8 | ✓ |
 | <!-- Enlace de argelion14 --> | | |
 | <!-- Enlace de juanmihdz --> | | |
