@@ -65,3 +65,7 @@ method objetivos() {
 method estudiantes() {
     return %!students.keys;
 }
+
+method objetivos-cumplidos() {
+    return @!objetivos.map: *.keys;
+}
