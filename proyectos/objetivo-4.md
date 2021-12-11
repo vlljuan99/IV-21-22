@@ -42,7 +42,7 @@
 | https://github.com/Slowmybrosh/DietApp/pull/27 | 0.0.5 | ✓ |
 | <!-- Enlace de sorozcov --> | | |
 | <!-- Enlace de jlortega00 --> | | |
-| <!-- Enlace de Xileon310 --> | | |
+| [Xileon310](https://github.com/Xileon310/IV-Project/pull/33) | 0.0.8 | |
 | [Parka015](https://github.com/Parka015/SerieMotion-IV/pull/14)| 0.0.8 | |
 | <!-- Enlace de edusegrich --> | | |
 | <!-- Enlace de LuisSS20 --> | | |
