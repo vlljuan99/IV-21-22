@@ -16,7 +16,7 @@ for glob( "proyectos/objetivo-*.md" ).sort: { $^a cmp $^b} -> $f {
 
 for @usuarios -> $u {
     if  %latest{$u}.defined {
-        say 7 * ( [+]  @cumplimiento[ ^%latest{$u} ] );
+        say (7 * ( [+]  @cumplimiento[ ^%latest{$u} ] )).trans("." => ",");
     } else {
         say 0;
     }
