@@ -24,10 +24,11 @@ method new( Str $file = "proyectos/usuarios.md") {
                 @objetivos[$objetivo] ∪= $usuario;
             }
             if ( @contenido[$index + 2] ~~ /"github.com"/ ) {
-            %students{$usuario}<entrega> = +$objetivo ;
-            @entregas[$objetivo] ∪= $usuario;
+                %students{$usuario}<entrega> = +$objetivo ;
+                @entregas[$objetivo] ∪= $usuario;
             }
         }
+        say @entregas[$objetivo];
     }
     self.bless( :%students, :@objetivos, :@entregas );
 }
