@@ -28,7 +28,6 @@ method new( Str $file = "proyectos/usuarios.md") {
                 @entregas[$objetivo] ∪= $usuario;
             }
         }
-        say @entregas[$objetivo];
     }
     self.bless( :%students, :@objetivos, :@entregas );
 }
