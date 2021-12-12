@@ -7,3 +7,6 @@ objetivos:
 
 bajas:
 	raku -Ilib scripts/iv-bajas.raku
+
+json:
+	raku -Ilib scripts/iv-objetivos.raku > data/objetivos.json
