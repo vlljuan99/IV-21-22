@@ -190,3 +190,13 @@ jobs:
             } else {
               console.log( all_good("Hay alguno de los autorizados funcionando" ))
             }
+  random-revisor:
+    runs-on: ubuntu-latest
+    needs: [ops-on-pr, ops-on-source, ops-using-API]
+    env:
+      objetivo: ${{ needs.ops-on-pr.outputs.objetivo }}
+    steps:
+      - name: Fuentes de este repo (para JSON)
+        uses: actions/checkout@v2
+      - name: Revisores aleatorios
+        run: t/random-reviewer
