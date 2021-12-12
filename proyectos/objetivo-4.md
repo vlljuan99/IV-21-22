@@ -24,7 +24,7 @@
 | https://github.com/Olasergiolas/Go-AutoEQ/pull/33 | 0.0.4 | ✓ |
 | https://github.com/lentes4k/cAppjon/pull/25 | 0.0.11 | ✓ |
 | https://github.com/joaquingv12/Proyecto-IV/pull/23 | 0.0.7 | ✓ |
-| [gomares](https://github.com/gomares/More-mangas/pull/30)|0.0.5| |
+| [gomares](https://github.com/gomares/More-mangas/pull/30)|0.0.5|✓ |
 | https://github.com/modejota/StoragIV/pull/24 | 0.0.8 | ✓ |
 | <!-- Enlace de argelion14 --> | | |
 | <!-- Enlace de juanmihdz --> | | |
@@ -43,7 +43,7 @@
 | https://github.com/sorozcov/proyecto-iv-ugr/pull/22 | 0.0.5 | |
 | <!-- Enlace de jlortega00 --> | | |
 | [Xileon310](https://github.com/Xileon310/IV-Project/pull/33) | 0.0.8 | |
-| [Parka015](https://github.com/Parka015/SerieMotion-IV/pull/14)| 0.0.8 | |
+| [Parka015](https://github.com/Parka015/SerieMotion-IV/pull/14)| 0.0.8 |✓ |
 | <!-- Enlace de edusegrich --> | | |
 | <!-- Enlace de LuisSS20 --> | | |
 | <!-- Enlace de juanfran00 --> | | |
