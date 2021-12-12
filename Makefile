@@ -10,3 +10,6 @@ bajas:
 
 json:
 	raku -Ilib scripts/iv-objetivos.raku > data/objetivos.json
+
+revisores:
+	fatpack pack src/random-reviewer.pl > t/random-reviewer

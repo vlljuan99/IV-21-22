@@ -24,4 +24,4 @@ for ( my $i = 0; $i < REVIEWERS; $i ++ ) {
   push( @reviewers, "\@".$this_reviewer );
 }
 
-say join(" ", @reviewers);
+warning( "⛹ Revisores → ". join(" ", @reviewers) );
