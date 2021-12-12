@@ -67,5 +67,5 @@ method estudiantes() {
 }
 
 method objetivos-cumplidos() {
-    return @!objetivos.map: *.keys;
+    return @!objetivos.map( *.keys.sort( { $^a.lc cmp $^b.lc }) );
 }
