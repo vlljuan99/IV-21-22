@@ -8,7 +8,7 @@
 | <!-- Enlace de LuisArostegui --> | | |
 | https://github.com/Paszser/ComparerApp/pull/21 | 0.0.6 | |
 | https://github.com/Mapachana/Predictor-COVID/pull/13 | 0.0.6 | ✓ |
-| https://github.com/eantoniocalo18/IV/pull/32 | 0.0.7 | |
+| https://github.com/eantoniocalo18/IV/pull/32 | 0.0.7 | ✓ |
 | <!-- Enlace de NachoCarher --> | | |
 | <!-- Enlace de C L A --> | | |
 | https://github.com/Balrrach/IV-Proyecto/pull/19 | 0.0.12 |✓ |
