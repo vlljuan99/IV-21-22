@@ -11,7 +11,7 @@
 | <!-- Enlace de NachoCarher --> | | |
 | <!-- Enlace de C L A --> | | |
 | <!-- Enlace de Balrrach --> | | |
-| https://github.com/alexespana/barpower/pull/47 | 0.0.10 | |
+| https://github.com/alexespana/barpower/pull/47 | 0.0.10 | ✓ |
 | <!-- Enlace de Javierexmar --> | | |
 | <!-- Enlace de MarinoFajardo --> | | |
 | <!-- Enlace de danifm1321 --> | | |
@@ -22,7 +22,7 @@
 | <!-- Enlace de agr8 --> | | |
 | <!-- Enlace de Olasergiolas --> | | |
 | https://github.com/lentes4k/cAppjon/pull/34 | 0.1.3 | |
-| https://github.com/joaquingv12/car_workshop-maximizer/pull/43 | 0.0.11 | |
+| https://github.com/joaquingv12/car_workshop-maximizer/pull/43 | 0.0.11 | ✓ |
 | <!-- Enlace de gomares --> | | |
 | https://github.com/modejota/StoragIV/pull/33 | 0.0.12 | ✓ |
 | <!-- Enlace de argelion14 --> | | |
