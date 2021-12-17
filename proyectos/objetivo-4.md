@@ -6,7 +6,7 @@
 | [noise-kngdm](https://github.com/noise-kngdm/music-matcher/pull/22) | 0.0.3 | ✓ |
 | <!-- Enlace de Esturillo98 --> | | |
 | <!-- Enlace de LuisArostegui --> | | |
-| https://github.com/Paszser/ComparerApp/pull/21 | 0.0.6 |  |
+| https://github.com/Paszser/ComparerApp/pull/21 | 0.0.6 | ✓ |
 | https://github.com/Mapachana/Predictor-COVID/pull/13 | 0.0.6 | ✓ |
 | https://github.com/eantoniocalo18/IV/pull/32 | 0.0.7 | ✓ |
 | <!-- Enlace de NachoCarher --> | | |
