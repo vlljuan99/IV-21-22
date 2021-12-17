@@ -6,7 +6,7 @@
 | [noise-kngdm](https://github.com/noise-kngdm/music-matcher/pull/22) | 0.0.3 | ✓ |
 | <!-- Enlace de Esturillo98 --> | | |
 | <!-- Enlace de LuisArostegui --> | | |
-| https://github.com/Paszser/ComparerApp/pull/21 | 0.0.6 | |
+| https://github.com/Paszser/ComparerApp/pull/21 | 0.0.6 |  |
 | https://github.com/Mapachana/Predictor-COVID/pull/13 | 0.0.6 | ✓ |
 | https://github.com/eantoniocalo18/IV/pull/32 | 0.0.7 | ✓ |
 | <!-- Enlace de NachoCarher --> | | |
@@ -42,7 +42,7 @@
 | https://github.com/Slowmybrosh/DietApp/pull/27 | 0.0.5 | ✓ |
 | https://github.com/sorozcov/proyecto-iv-ugr/pull/22 | 0.0.5 | |
 | <!-- Enlace de jlortega00 --> | | |
-| [Xileon310](https://github.com/Xileon310/GoParty/pull/33) | 0.0.8 | |
+| [Xileon310](https://github.com/Xileon310/GoParty/pull/33) | 0.0.8 | ✓ |
 | [Parka015](https://github.com/Parka015/SerieMotion-IV/pull/14)| 0.0.8 |✓ |
 | <!-- Enlace de edusegrich --> | | |
 | [LuisSS20](https://github.com/LuisSS20/DontWait/pull/17) | 0.0.4 | |
