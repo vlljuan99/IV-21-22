@@ -24,7 +24,7 @@
 | <!-- Enlace de lentes4k --> | | |
 | https://github.com/joaquingv12/car_workshop-maximizer/pull/43 | 0.0.11 | |
 | <!-- Enlace de gomares --> | | |
-| https://github.com/modejota/StoragIV/pull/33 | 0.0.12 | |
+| https://github.com/modejota/StoragIV/pull/33 | 0.0.12 | ✓ |
 | <!-- Enlace de argelion14 --> | | |
 | <!-- Enlace de juanmihdz --> | | |
 | <!-- Enlace de venrra --> | | |
