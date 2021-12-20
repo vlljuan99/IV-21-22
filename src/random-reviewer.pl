@@ -44,4 +44,4 @@ my $request = new HTTP::Request('POST' => $url,
                                 ]);
 $request->content($post_data);
 my $response = $ua->request($request)->as_string() || die "No puedo poner comentario: $@";
-print "$response";
+
