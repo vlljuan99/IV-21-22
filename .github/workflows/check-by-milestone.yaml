@@ -207,7 +207,7 @@ jobs:
                         })
             const checks = await github.paginate( checks_before_pag)
             console.log( "✅ Hay " + checks.length + " sistemas de CI configurados")
-            console.log( checks )
+            console.log( "Checks →\n", checks )
             if ( checks.length < 1 ) {
                 core.setFailed("❌ No hay suficientes sistemas de CI configurados")
             }
