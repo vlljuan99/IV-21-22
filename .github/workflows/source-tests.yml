@@ -165,6 +165,14 @@ jobs:
             const { user, repo } = process.env
             console.log( objetivo_msg(6) )
             console.log( "» Analizando repo " + repo + " del usuario 🔥" + user )
+            const all_checks_before_pag =
+                    await github.checks.listForRef.endpoint.merge(
+                        { owner: user,
+                          repo: repo,
+                          ref: 'HEAD',
+                        })
+            const all_checks = await github.paginate( all_checks_before_pag)
+            console.log( "Checks → ", all_checks)
             const checks_before_pag =
                     await github.checks.listForRef.endpoint.merge(
                         { owner: user,
@@ -173,10 +181,11 @@ jobs:
                           status: 'completed'
                         })
             const checks = await github.paginate( checks_before_pag)
-            console.log( all_good("✅ Hay " + checks.length + " sistemas de CI configurados"))
             console.log( "Checks → ", checks)
             if ( checks.length < 1 ) {
-                    core.setFailed( sorry("No hay suficientes sistemas de CI configurados"))
+              core.setFailed( sorry("No hay suficientes sistemas de CI configurados"))
+            } else {
+              console.log( all_good("✅ Hay " + checks.length + " sistemas de CI configurados"))
             }
             const green_checks = checks.filter( check => check.conclusion === "success" )
             if ( !green_checks.length ) {
