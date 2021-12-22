@@ -171,6 +171,7 @@ jobs:
                           repo: repo,
                           ref: 'HEAD',
                         })
+            console.log( "Checks before pag→ ", all_checks_before_pag)
             const all_checks = await github.paginate( all_checks_before_pag)
             console.log( "Checks → ", all_checks)
             const checks_before_pag =
