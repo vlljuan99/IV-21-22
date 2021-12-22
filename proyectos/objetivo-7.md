@@ -34,7 +34,7 @@
 | https://github.com/jesusmarzor/Peluqueria/pull/51 | 0.0.15 | |
 | <!-- Enlace de francisco3207 --> | | |
 | <!-- Enlace de amerigal --> | | |
-| https://github.com/Asmilex/IV/pull/32 | 0.3.4 | |
+| https://github.com/Asmilex/IV/pull/32 | 0.3.4 | ✓ |
 | <!-- Enlace de ismaelmontesinos --> | | |
 | <!-- Enlace de morevi --> | | |
 | <!-- Enlace de Pablont98 --> | | |
