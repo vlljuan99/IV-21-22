@@ -71,3 +71,7 @@ Contenidos prácticos:
   despliegue.
 - [Desplegando en Heroku](http://jj.github.io/IV/documentos/temas/PaaS#desplegando-en-el-paas) usando
   la línea de órdenes.
+
+## Instrucciones para entregas
+
+Lee en [este documento las instrucciones para entregas y defensa del proyecto](instrucciones-ordinaria-extraordinaria.md).
