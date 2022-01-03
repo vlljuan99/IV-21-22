@@ -19,12 +19,12 @@ jobs:
         uses: actions/cache@v2
         id: meta6
         with:
-          path: /home/raku/.raku/
+          path: ~/.raku/
           key: ${{ runner.os }}-${{ hashFiles('META6.json') }}
       - name: Instala módulos Raku
         if: steps.meta6.outputs.cache-hit != 'true'
         run: |
-          zef install -to=inst#/home/raku/.raku .
+          zef install --force .
       - name: Genera JSON
         run: raku -Ilib scripts/iv-objetivos.raku > data/objetivos.json
       - name: Sube resultados
