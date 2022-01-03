@@ -23,8 +23,8 @@ jobs:
           key: ${{ runner.os }}-${{ hashFiles('META6.json') }}
       - name: Instala módulos Raku
         if: steps.meta6.outputs.cache-hit != 'true'
-        run: |
-          zef install --force .
+        continue-on-error: true
+        run:  zef install  .
       - name: Genera JSON
         run: raku -Ilib scripts/iv-objetivos.raku > data/objetivos.json
       - name: Sube resultados
