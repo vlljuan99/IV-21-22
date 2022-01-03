@@ -1,0 +1,29 @@
+name: "Genera JSON a partir de los ficheros de objetivos"
+on:
+  push:
+    paths:
+      - proyectos/objetivos*.md
+      - .github/workflows/commit-json.yaml
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    permissions:
+      packages: read
+    container:
+      image: ghcr.io/jj/raku-github-actions
+    steps:
+      - name: Checkout this
+        uses: actions/checkout@v2
+      - name: Genera JSON
+        run: raku -Ilib scripts/iv-objetivos.raku > data/objetivos.json
+      - name: Sube los resultados
+        run: |
+          if [[ $(git status -s) ]]; then
+              git config --global user.email "jjmerelo@gmail.com"
+              git config --global user.name "IVDataBot"
+              git commit -am "Actualiza JSON"
+              git push
+          else
+              echo "🟏 No ha habido cambios"
+          fi
