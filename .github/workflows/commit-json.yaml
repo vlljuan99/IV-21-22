@@ -29,7 +29,8 @@ jobs:
         run: raku -Ilib scripts/iv-objetivos.raku > data/objetivos.json
       - name: Sube resultados
         run: |
-          if [ -z $(git status -s) ]; then
+          git status -s
+          if [ -n $(git status -s) ]; then
               git config --global user.email "jjmerelo@gmail.com"
               git config --global user.name "IVDataBot"
               git commit -am "Actualiza JSON"
